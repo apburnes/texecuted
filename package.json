@@ -1,0 +1,21 @@
+{
+  "name": "texecute",
+  "version": "0.0.1",
+  "description": "Scraping and wrangling the list of Texas Executions",
+  "main": "texecute.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cheerio": "^0.16.0",
+    "request": "^2.36.0"
+  },
+  "keywords": [
+    "texas",
+    "executions",
+    "data",
+    "scrape"
+  ],
+  "author": "Andrew Burnes",
+  "license": "MIT"
+}
