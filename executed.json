@@ -1,0 +1,5152 @@
+[
+  {
+    "execution": "515",
+    "lastName": "Villegas",
+    "firstName": "Jose",
+    "tdcjNumber": "999417",
+    "age": "39",
+    "executionDate": "04/16/2014",
+    "race": "Hispanic",
+    "county": "Nueces"
+  },
+  {
+    "execution": "514",
+    "lastName": "Hernandez",
+    "firstName": "Ramiro",
+    "tdcjNumber": "999342",
+    "age": "44",
+    "executionDate": "04/09/2014",
+    "race": "Hispanic",
+    "county": "Kerr"
+  },
+  {
+    "execution": "513",
+    "lastName": "Sells",
+    "firstName": "Tommy",
+    "tdcjNumber": "999367",
+    "age": "49",
+    "executionDate": "04/03/2014",
+    "race": "White",
+    "county": "ValVerde"
+  },
+  {
+    "execution": "512",
+    "lastName": "Doyle",
+    "firstName": "Anthony",
+    "tdcjNumber": "999478",
+    "age": "29",
+    "executionDate": "03/27/2014",
+    "race": "Black",
+    "county": "Dallas"
+  },
+  {
+    "execution": "511",
+    "lastName": "Jasper",
+    "firstName": "Ray",
+    "tdcjNumber": "999341",
+    "age": "33",
+    "executionDate": "03/19/2014",
+    "race": "Black",
+    "county": "Bexar"
+  },
+  {
+    "execution": "510",
+    "lastName": "Basso",
+    "firstName": "Suzanne",
+    "tdcjNumber": "999329",
+    "age": "59",
+    "executionDate": "02/05/2014",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "509",
+    "lastName": "Tamayo",
+    "firstName": "Edgar",
+    "tdcjNumber": "999130",
+    "age": "46",
+    "executionDate": "01/22/2014",
+    "race": "Hispanic",
+    "county": "Harris"
+  },
+  {
+    "execution": "508",
+    "lastName": "Martin",
+    "firstName": "Jerry",
+    "tdcjNumber": "999552",
+    "age": "43",
+    "executionDate": "12/03/2013",
+    "race": "White",
+    "county": "Leon"
+  },
+  {
+    "execution": "507",
+    "lastName": "McCoskey",
+    "firstName": "Jamie",
+    "tdcjNumber": "999053",
+    "age": "49",
+    "executionDate": "11/12/2013",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "506",
+    "lastName": "Yowell",
+    "firstName": "Michael",
+    "tdcjNumber": "999334",
+    "age": "43",
+    "executionDate": "10/09/2013",
+    "race": "White ",
+    "county": "Lubbock"
+  },
+  {
+    "execution": "505",
+    "lastName": "Diaz",
+    "firstName": "Arturo",
+    "tdcjNumber": "999345",
+    "age": "37",
+    "executionDate": "09/26/2013",
+    "race": "Hispanic",
+    "county": "Hidalgo"
+  },
+  {
+    "execution": "504",
+    "lastName": "Garza",
+    "firstName": "Robert",
+    "tdcjNumber": "999466",
+    "age": "30",
+    "executionDate": "09/19/2013",
+    "race": "Hispanic",
+    "county": "Hidalgo"
+  },
+  {
+    "execution": "503",
+    "lastName": "Feldman",
+    "firstName": "Douglas",
+    "tdcjNumber": "999326",
+    "age": "55",
+    "executionDate": "07/31/2013",
+    "race": "White",
+    "county": "Dallas"
+  },
+  {
+    "execution": "502",
+    "lastName": "Ross",
+    "firstName": "Vaughn",
+    "tdcjNumber": "999429",
+    "age": "41",
+    "executionDate": "07/18/2013",
+    "race": "Black",
+    "county": "Lubbock"
+  },
+  {
+    "execution": "501",
+    "lastName": "Quintanilla",
+    "firstName": "John",
+    "tdcjNumber": "999491",
+    "age": "36",
+    "executionDate": "07/16/2013",
+    "race": "Hispanic",
+    "county": "Victoria"
+  },
+  {
+    "execution": "500",
+    "lastName": "McCarthy",
+    "firstName": "Kimberly",
+    "tdcjNumber": "999287",
+    "age": "52",
+    "executionDate": "06/26/2013",
+    "race": "Black",
+    "county": "Dallas"
+  },
+  {
+    "execution": "499",
+    "lastName": "Chester",
+    "firstName": "Elroy",
+    "tdcjNumber": "999280",
+    "age": "43",
+    "executionDate": "06/12/2013",
+    "race": "Black",
+    "county": "Jefferson"
+  },
+  {
+    "execution": "498",
+    "lastName": "Williams",
+    "firstName": "Jeffrey",
+    "tdcjNumber": "999350",
+    "age": "37",
+    "executionDate": "05/15/2013",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "497",
+    "lastName": "Parr",
+    "firstName": "Carroll",
+    "tdcjNumber": "999479",
+    "age": "35",
+    "executionDate": "05/07/2013",
+    "race": "Black",
+    "county": "McLennan"
+  },
+  {
+    "execution": "496",
+    "lastName": "Cobb",
+    "firstName": "Richard",
+    "tdcjNumber": "999467",
+    "age": "29",
+    "executionDate": "04/26/2013",
+    "race": "White",
+    "county": "Cherokee"
+  },
+  {
+    "execution": "495",
+    "lastName": "Threadgill",
+    "firstName": "Ronnie",
+    "tdcjNumber": "999424",
+    "age": "40",
+    "executionDate": "04/16/2013",
+    "race": "Black",
+    "county": "Navarro"
+  },
+  {
+    "execution": "494",
+    "lastName": "Lewis",
+    "firstName": "Ricky",
+    "tdcjNumber": "999097",
+    "age": "50",
+    "executionDate": "04/09/2013",
+    "race": "Black",
+    "county": "Smith"
+  },
+  {
+    "execution": "493",
+    "lastName": "Blue",
+    "firstName": "Carl",
+    "tdcjNumber": "999151",
+    "age": "48",
+    "executionDate": "02/21/2013",
+    "race": "Black",
+    "county": "Brazos"
+  },
+  {
+    "execution": "492",
+    "lastName": "Hughes",
+    "firstName": "Preston",
+    "tdcjNumber": "939",
+    "age": "46",
+    "executionDate": "11/15/2012",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "491",
+    "lastName": "Hernandez",
+    "firstName": "Ramon",
+    "tdcjNumber": "999431",
+    "age": "41",
+    "executionDate": "11/14/2012",
+    "race": "Hispanic",
+    "county": "Bexar"
+  },
+  {
+    "execution": "490",
+    "lastName": "Swain",
+    "firstName": "Mario",
+    "tdcjNumber": "999475",
+    "age": "33",
+    "executionDate": "11/08/2012",
+    "race": "Black",
+    "county": "Gregg"
+  },
+  {
+    "execution": "489",
+    "lastName": "Roberts, Jr.",
+    "firstName": "Donnie",
+    "tdcjNumber": "999487",
+    "age": "41",
+    "executionDate": "10/31/2012",
+    "race": "White",
+    "county": "Polk"
+  },
+  {
+    "execution": "488",
+    "lastName": "Hines",
+    "firstName": "Bobby",
+    "tdcjNumber": "999025",
+    "age": "40",
+    "executionDate": "10/24/2012",
+    "race": "White",
+    "county": "Dallas"
+  },
+  {
+    "execution": "487",
+    "lastName": "Green",
+    "firstName": "Jonathan",
+    "tdcjNumber": "999421",
+    "age": "44",
+    "executionDate": "10/10/2012",
+    "race": "Black",
+    "county": "Montgomery"
+  },
+  {
+    "execution": "486",
+    "lastName": "Foster",
+    "firstName": "Cleve",
+    "tdcjNumber": "999470",
+    "age": "48",
+    "executionDate": "09/25/2012",
+    "race": "White",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "485",
+    "lastName": "Harris",
+    "firstName": "Robert",
+    "tdcjNumber": "999364",
+    "age": "40",
+    "executionDate": "09/20/2012",
+    "race": "Black",
+    "county": "Dallas"
+  },
+  {
+    "execution": "484",
+    "lastName": "Wilson",
+    "firstName": "Marvin",
+    "tdcjNumber": "999098",
+    "age": "54",
+    "executionDate": "08/07/2012",
+    "race": "Black",
+    "county": "Jefferson"
+  },
+  {
+    "execution": "483",
+    "lastName": "Hearn",
+    "firstName": "Yokamon",
+    "tdcjNumber": "999292",
+    "age": "33",
+    "executionDate": "07/18/2012",
+    "race": "Black",
+    "county": "Dallas"
+  },
+  {
+    "execution": "482",
+    "lastName": "Adams",
+    "firstName": "Beunka",
+    "tdcjNumber": "999486",
+    "age": "29",
+    "executionDate": "04/26/2012",
+    "race": "Black",
+    "county": "Cherokee"
+  },
+  {
+    "execution": "481",
+    "lastName": "Hernandez",
+    "firstName": "Jesse",
+    "tdcjNumber": "999425",
+    "age": "47",
+    "executionDate": "03/28/2012",
+    "race": "Hispanic",
+    "county": "Dallas"
+  },
+  {
+    "execution": "480",
+    "lastName": "Thurmond",
+    "firstName": "Keith",
+    "tdcjNumber": "999435",
+    "age": "52",
+    "executionDate": "03/07/2012",
+    "race": "White",
+    "county": "Montgomery"
+  },
+  {
+    "execution": "479",
+    "lastName": "Rivas",
+    "firstName": "George",
+    "tdcjNumber": "999394",
+    "age": "41",
+    "executionDate": "02/29/2012",
+    "race": "Hispanic",
+    "county": "Dallas"
+  },
+  {
+    "execution": "478",
+    "lastName": "Hernandez",
+    "firstName": "Rodrigo",
+    "tdcjNumber": "999474",
+    "age": "38",
+    "executionDate": "01/26/2012",
+    "race": "Hispanic",
+    "county": "Bexar"
+  },
+  {
+    "execution": "477",
+    "lastName": "Esparza",
+    "firstName": "Guadalupe",
+    "tdcjNumber": "999385",
+    "age": "46",
+    "executionDate": "11/16/2011",
+    "race": "Hispanic",
+    "county": "Bexar"
+  },
+  {
+    "execution": "476",
+    "lastName": "Garcia",
+    "firstName": "Frank",
+    "tdcjNumber": "999418",
+    "age": "39",
+    "executionDate": "10/27/2011",
+    "race": "Hispanic",
+    "county": "Bexar"
+  },
+  {
+    "execution": "475",
+    "lastName": "Brewer",
+    "firstName": "Lawrence",
+    "tdcjNumber": "999327",
+    "age": "44",
+    "executionDate": "09/21/2011",
+    "race": "White",
+    "county": "Brazos"
+  },
+  {
+    "execution": "474",
+    "lastName": "Woods",
+    "firstName": "Steven",
+    "tdcjNumber": "999427",
+    "age": "31",
+    "executionDate": "09/13/2011",
+    "race": "White",
+    "county": "Denton"
+  },
+  {
+    "execution": "473",
+    "lastName": "Robles",
+    "firstName": "Martin",
+    "tdcjNumber": "999457",
+    "age": "33",
+    "executionDate": "08/10/2011",
+    "race": "Hispanic",
+    "county": "Nueces"
+  },
+  {
+    "execution": "472",
+    "lastName": "Stroman",
+    "firstName": "Mark",
+    "tdcjNumber": "999409",
+    "age": "42",
+    "executionDate": "07/20/2011",
+    "race": "White",
+    "county": "Dallas"
+  },
+  {
+    "execution": "471",
+    "lastName": "Leal",
+    "firstName": "Humberto",
+    "tdcjNumber": "999162",
+    "age": "38",
+    "executionDate": "07/07/2011",
+    "race": "Hispanic",
+    "county": "Bexar"
+  },
+  {
+    "execution": "470",
+    "lastName": "Mathis",
+    "firstName": "Milton",
+    "tdcjNumber": "999337",
+    "age": "32",
+    "executionDate": "06/21/2011",
+    "race": "Black",
+    "county": "Fort Bend"
+  },
+  {
+    "execution": "469",
+    "lastName": "Taylor",
+    "firstName": "Lee",
+    "tdcjNumber": "999344",
+    "age": "32",
+    "executionDate": "06/16/2011",
+    "race": "White",
+    "county": "Bowie"
+  },
+  {
+    "execution": "468",
+    "lastName": "Bradford",
+    "firstName": "Gayland",
+    "tdcjNumber": "966",
+    "age": "42",
+    "executionDate": "06/01/2011",
+    "race": "Black",
+    "county": "Dallas"
+  },
+  {
+    "execution": "467",
+    "lastName": "Kerr",
+    "firstName": "Cary",
+    "tdcjNumber": "999449",
+    "age": "46",
+    "executionDate": "05/03/2011",
+    "race": "White",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "466",
+    "lastName": "Adams",
+    "firstName": "Timothy",
+    "tdcjNumber": "999448",
+    "age": "42",
+    "executionDate": "02/22/2011",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "465",
+    "lastName": "Hall",
+    "firstName": "Michael",
+    "tdcjNumber": "999346",
+    "age": "31",
+    "executionDate": "02/15/2011",
+    "race": "White",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "464",
+    "lastName": "Wooten",
+    "firstName": "Larry",
+    "tdcjNumber": "999269",
+    "age": "51",
+    "executionDate": "10/21/2010",
+    "race": "Black",
+    "county": "Lamar"
+  },
+  {
+    "execution": "463",
+    "lastName": "Cantu",
+    "firstName": "Peter",
+    "tdcjNumber": "999093",
+    "age": "35",
+    "executionDate": "08/17/2010",
+    "race": "Hispanic",
+    "county": "Harris"
+  },
+  {
+    "execution": "462",
+    "lastName": "Jackson",
+    "firstName": "Derrick",
+    "tdcjNumber": "999263",
+    "age": "42",
+    "executionDate": "07/20/2010",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "461",
+    "lastName": "Perry",
+    "firstName": "Michael",
+    "tdcjNumber": "999444",
+    "age": "28",
+    "executionDate": "07/01/2010",
+    "race": "White",
+    "county": "Montgomery"
+  },
+  {
+    "execution": "460",
+    "lastName": "Powell",
+    "firstName": "David",
+    "tdcjNumber": "000612",
+    "age": "59",
+    "executionDate": "06/15/2010",
+    "race": "White",
+    "county": "Travis"
+  },
+  {
+    "execution": "459",
+    "lastName": "Jones",
+    "firstName": "George",
+    "tdcjNumber": "999147",
+    "age": "36",
+    "executionDate": "06/02/2010",
+    "race": "Black",
+    "county": "Dallas"
+  },
+  {
+    "execution": "458",
+    "lastName": "Alba",
+    "firstName": "John",
+    "tdcjNumber": "999027",
+    "age": "54",
+    "executionDate": "05/25/2010",
+    "race": "Hispanic",
+    "county": "Collin"
+  },
+  {
+    "execution": "457",
+    "lastName": "Cannady",
+    "firstName": "Rogelio",
+    "tdcjNumber": "999245",
+    "age": "37",
+    "executionDate": "05/19/2010",
+    "race": "Hispanic",
+    "county": "Bee"
+  },
+  {
+    "execution": "456",
+    "lastName": "Galloway",
+    "firstName": "Billy",
+    "tdcjNumber": "999349",
+    "age": "41",
+    "executionDate": "05/13/2010",
+    "race": "White",
+    "county": "Hunt"
+  },
+  {
+    "execution": "455",
+    "lastName": "Varga",
+    "firstName": "Kevin",
+    "tdcjNumber": "999368",
+    "age": "41",
+    "executionDate": "05/12/2010",
+    "race": "White",
+    "county": "Hunt"
+  },
+  {
+    "execution": "454",
+    "lastName": "Bustamante",
+    "firstName": "Samuel",
+    "tdcjNumber": "999380",
+    "age": "40",
+    "executionDate": "04/27/2010",
+    "race": "Hispanic",
+    "county": "Fort Bend "
+  },
+  {
+    "execution": "453",
+    "lastName": "Berkley",
+    "firstName": "William",
+    "tdcjNumber": "999422",
+    "age": "31",
+    "executionDate": "04/22/2010",
+    "race": "White",
+    "county": "El Paso "
+  },
+  {
+    "execution": "452",
+    "lastName": "Alix",
+    "firstName": "Franklin",
+    "tdcjNumber": "999286",
+    "age": "34",
+    "executionDate": "03/30/2010",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "451",
+    "lastName": "Maxwell",
+    "firstName": "Joshua",
+    "tdcjNumber": "999408",
+    "age": "31",
+    "executionDate": "03/11/2010",
+    "race": "White",
+    "county": "Bexar"
+  },
+  {
+    "execution": "450",
+    "lastName": "Sigala",
+    "firstName": "Michael",
+    "tdcjNumber": "999397",
+    "age": "32",
+    "executionDate": "03/02/2010",
+    "race": "Hispanic",
+    "county": "Collin"
+  },
+  {
+    "execution": "449",
+    "lastName": "Johnson",
+    "firstName": "Gary",
+    "tdcjNumber": "000911",
+    "age": "59",
+    "executionDate": "01/12/2010",
+    "race": "White",
+    "county": "Walker"
+  },
+  {
+    "execution": "448",
+    "lastName": "Mosley",
+    "firstName": "Kenneth",
+    "tdcjNumber": "999243",
+    "age": "51",
+    "executionDate": "01/07/2010",
+    "race": "Black",
+    "county": "Dallas"
+  },
+  {
+    "execution": "447",
+    "lastName": "Woods",
+    "firstName": "Bobby",
+    "tdcjNumber": "999270",
+    "age": "44",
+    "executionDate": "12/03/2009",
+    "race": "White",
+    "county": "Llano"
+  },
+  {
+    "execution": "446",
+    "lastName": "Thompson",
+    "firstName": "Robert",
+    "tdcjNumber": "999276",
+    "age": "34",
+    "executionDate": "11/19/2009",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "445",
+    "lastName": "Simpson",
+    "firstName": "Danielle",
+    "tdcjNumber": "999370",
+    "age": "30",
+    "executionDate": "11/18/2009",
+    "race": "Black",
+    "county": "Anderson"
+  },
+  {
+    "execution": "444",
+    "lastName": "Valle",
+    "firstName": "Yosvanis",
+    "tdcjNumber": "999384",
+    "age": "34",
+    "executionDate": "11/10/2009",
+    "race": "Hispanic",
+    "county": "Harris"
+  },
+  {
+    "execution": "443",
+    "lastName": "Oliver",
+    "firstName": "Khristian",
+    "tdcjNumber": "999301",
+    "age": "32",
+    "executionDate": "11/05/2009",
+    "race": "White",
+    "county": "Nacogdoches"
+  },
+  {
+    "execution": "442",
+    "lastName": "Blanton",
+    "firstName": "Reginald",
+    "tdcjNumber": "999395",
+    "age": "28",
+    "executionDate": "10/27/2009",
+    "race": "Black",
+    "county": "Bexar"
+  },
+  {
+    "execution": "441",
+    "lastName": "Coleman",
+    "firstName": "Christopher",
+    "tdcjNumber": "999239",
+    "age": "37",
+    "executionDate": "09/22/2009",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "440",
+    "lastName": "Moody",
+    "firstName": "Stephen",
+    "tdcjNumber": "999076",
+    "age": "52",
+    "executionDate": "09/16/2009",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "439",
+    "lastName": "Hankins",
+    "firstName": "Terry",
+    "tdcjNumber": "999415",
+    "age": "34",
+    "executionDate": "06/02/2009",
+    "race": "White",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "438",
+    "lastName": "Riley",
+    "firstName": "Michael",
+    "tdcjNumber": "000851",
+    "age": "51",
+    "executionDate": "05/19/2009",
+    "race": "Black",
+    "county": "Wood"
+  },
+  {
+    "execution": "437",
+    "lastName": "Johnson",
+    "firstName": "Derrick",
+    "tdcjNumber": "999339",
+    "age": "28",
+    "executionDate": "04/30/2009",
+    "race": "Black",
+    "county": "Dallas"
+  },
+  {
+    "execution": "436",
+    "lastName": "Rosales",
+    "firstName": "Michael",
+    "tdcjNumber": "999274",
+    "age": "35",
+    "executionDate": "04/15/2009",
+    "race": "Hispanic",
+    "county": "Lubbock"
+  },
+  {
+    "execution": "435",
+    "lastName": "Salazar",
+    "firstName": "Luis",
+    "tdcjNumber": "999285",
+    "age": "38",
+    "executionDate": "03/11/2009",
+    "race": "Hispanic",
+    "county": "Bexar"
+  },
+  {
+    "execution": "434",
+    "lastName": "Martinez",
+    "firstName": "James",
+    "tdcjNumber": "999404",
+    "age": "34",
+    "executionDate": "03/10/2009",
+    "race": "Hispanic",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "433",
+    "lastName": "Morris",
+    "firstName": "Kenneth",
+    "tdcjNumber": "999117",
+    "age": "38",
+    "executionDate": "03/04/2009",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "432",
+    "lastName": "Pondexter",
+    "firstName": "Willie",
+    "tdcjNumber": "999111",
+    "age": "34",
+    "executionDate": "03/03/2009",
+    "race": "Black",
+    "county": "Red River"
+  },
+  {
+    "execution": "431",
+    "lastName": "Johnson",
+    "firstName": "Johnny",
+    "tdcjNumber": "999197",
+    "age": "51",
+    "executionDate": "02/12/2009",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "430",
+    "lastName": "Scheanette",
+    "firstName": "Dale",
+    "tdcjNumber": "999440",
+    "age": "35",
+    "executionDate": "02/10/2009",
+    "race": "Black",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "429",
+    "lastName": "Martinez",
+    "firstName": "David",
+    "tdcjNumber": "999173",
+    "age": "36",
+    "executionDate": "02/04/2009",
+    "race": "Hispanic",
+    "county": "Bexar"
+  },
+  {
+    "execution": "428",
+    "lastName": "Ortiz",
+    "firstName": "Ricardo",
+    "tdcjNumber": "999320",
+    "age": "46",
+    "executionDate": "01/29/2009",
+    "race": "Hispanic",
+    "county": "El Paso "
+  },
+  {
+    "execution": "427",
+    "lastName": "Martinez",
+    "firstName": "Virgil",
+    "tdcjNumber": "999265",
+    "age": "41",
+    "executionDate": "01/28/2009",
+    "race": "Hispanic",
+    "county": "Brazoria"
+  },
+  {
+    "execution": "426",
+    "lastName": "Perkins",
+    "firstName": "Reginald",
+    "tdcjNumber": "999407",
+    "age": "53",
+    "executionDate": "01/22/2009",
+    "race": "Black",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "425",
+    "lastName": "Moore",
+    "firstName": "Frank",
+    "tdcjNumber": "999210",
+    "age": "49",
+    "executionDate": "01/21/2009",
+    "race": "Black",
+    "county": "Bexar"
+  },
+  {
+    "execution": "424",
+    "lastName": "Moore",
+    "firstName": "Curtis",
+    "tdcjNumber": "999212",
+    "age": "40",
+    "executionDate": "01/14/2009",
+    "race": "Black",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "423",
+    "lastName": "Hudson",
+    "firstName": "Robert",
+    "tdcjNumber": "999353",
+    "age": "45",
+    "executionDate": "11/20/2008",
+    "race": "Black",
+    "county": "Dallas"
+  },
+  {
+    "execution": "422",
+    "lastName": "Manns",
+    "firstName": "Denard",
+    "tdcjNumber": "999405",
+    "age": "42",
+    "executionDate": "11/13/2008",
+    "race": "Black",
+    "county": "Bell"
+  },
+  {
+    "execution": "421",
+    "lastName": "Whitaker III ",
+    "firstName": "George",
+    "tdcjNumber": "999196",
+    "age": "36",
+    "executionDate": "11/12/2008",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "420",
+    "lastName": "Taylor",
+    "firstName": "Elkie",
+    "tdcjNumber": "999112",
+    "age": "46",
+    "executionDate": "11/6/2008",
+    "race": "Black",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "419",
+    "lastName": "Wright",
+    "firstName": "Gregory",
+    "tdcjNumber": "999253",
+    "age": "42",
+    "executionDate": "10/30/2008",
+    "race": "White",
+    "county": "Dallas"
+  },
+  {
+    "execution": "418",
+    "lastName": "Nenno",
+    "firstName": "Eric",
+    "tdcjNumber": "999188",
+    "age": "45",
+    "executionDate": "10/28/2008",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "417",
+    "lastName": "Ries",
+    "firstName": "Joseph",
+    "tdcjNumber": "999335",
+    "age": "29",
+    "executionDate": "10/21/2008",
+    "race": "White",
+    "county": "Hopkins"
+  },
+  {
+    "execution": "416",
+    "lastName": "Watts",
+    "firstName": "Kevin",
+    "tdcjNumber": "999456",
+    "age": "27",
+    "executionDate": "10/16/2008",
+    "race": "Black",
+    "county": "Bexar"
+  },
+  {
+    "execution": "415",
+    "lastName": "Kelly",
+    "firstName": "Alvin",
+    "tdcjNumber": "999012",
+    "age": "57",
+    "executionDate": "10/14/2008",
+    "race": "White",
+    "county": "Gregg"
+  },
+  {
+    "execution": "414",
+    "lastName": "Murray",
+    "firstName": "William",
+    "tdcjNumber": "999313",
+    "age": "39",
+    "executionDate": "09/17/2008",
+    "race": "White",
+    "county": "Kaufman"
+  },
+  {
+    "execution": "413",
+    "lastName": "Rodriguez",
+    "firstName": "Michael",
+    "tdcjNumber": "999413",
+    "age": "40",
+    "executionDate": "08/14/2008",
+    "race": "Hispanic",
+    "county": "Dallas"
+  },
+  {
+    "execution": "412",
+    "lastName": "Dorsey",
+    "firstName": "Leon",
+    "tdcjNumber": "999359",
+    "age": "32",
+    "executionDate": "08/12/2008",
+    "race": "Black",
+    "county": "Dallas"
+  },
+  {
+    "execution": "411",
+    "lastName": "Chi",
+    "firstName": "Heliberto",
+    "tdcjNumber": "999437",
+    "age": "29",
+    "executionDate": "08/07/2008",
+    "race": "Hispanic",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "410",
+    "lastName": "Medellin",
+    "firstName": "Jose",
+    "tdcjNumber": "999134",
+    "age": "33",
+    "executionDate": "08/05/2008",
+    "race": "Hispanic",
+    "county": "Harris"
+  },
+  {
+    "execution": "409",
+    "lastName": "Davis",
+    "firstName": "Larry",
+    "tdcjNumber": "999316",
+    "age": "40",
+    "executionDate": "07/31/2008",
+    "race": "Black",
+    "county": "Potter"
+  },
+  {
+    "execution": "408",
+    "lastName": "Sonnier",
+    "firstName": "Derrick",
+    "tdcjNumber": "999054",
+    "age": "40",
+    "executionDate": "07/23/2008",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "407",
+    "lastName": "Turner",
+    "firstName": "Carlton",
+    "tdcjNumber": "999321",
+    "age": "29",
+    "executionDate": "07/10/2008",
+    "race": "Black",
+    "county": "Dallas"
+  },
+  {
+    "execution": "406",
+    "lastName": "Chamberlain",
+    "firstName": "Karl",
+    "tdcjNumber": "999241",
+    "age": "37",
+    "executionDate": "06/11/2008",
+    "race": "White",
+    "county": "Dallas"
+  },
+  {
+    "execution": "405",
+    "lastName": "Richard",
+    "firstName": "Michael",
+    "tdcjNumber": "000890",
+    "age": "48",
+    "executionDate": "09/25/2007",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "404",
+    "lastName": "Kimmel",
+    "firstName": "Clifford",
+    "tdcjNumber": "999347",
+    "age": "32",
+    "executionDate": "09/20/2007",
+    "race": "White",
+    "county": "Bexar"
+  },
+  {
+    "execution": "403",
+    "lastName": "Roach",
+    "firstName": "Tony",
+    "tdcjNumber": "999323",
+    "age": "30",
+    "executionDate": "09/05/2007",
+    "race": "White",
+    "county": "Potter"
+  },
+  {
+    "execution": "402",
+    "lastName": "Amador",
+    "firstName": "John",
+    "tdcjNumber": "999160",
+    "age": "32",
+    "executionDate": "08/29/2007",
+    "race": "Hispanic",
+    "county": "Bexar"
+  },
+  {
+    "execution": "401",
+    "lastName": "Mosley",
+    "firstName": "Daroyce",
+    "tdcjNumber": "999171",
+    "age": "32",
+    "executionDate": "08/28/2007",
+    "race": "Black",
+    "county": "Gregg"
+  },
+  {
+    "execution": "400",
+    "lastName": "Conner",
+    "firstName": "Johnny",
+    "tdcjNumber": "999324",
+    "age": "32",
+    "executionDate": "08/22/2007",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "399",
+    "lastName": "Parr",
+    "firstName": "Kenneth",
+    "tdcjNumber": "999312",
+    "age": "27",
+    "executionDate": "08/15/2007",
+    "race": "Black",
+    "county": "Matagorda"
+  },
+  {
+    "execution": "398",
+    "lastName": "Johnson",
+    "firstName": "Lonnie",
+    "tdcjNumber": "999135",
+    "age": "44",
+    "executionDate": "07/24/2007",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "397",
+    "lastName": "Knight",
+    "firstName": "Patrick",
+    "tdcjNumber": "999072",
+    "age": "39",
+    "executionDate": "06/26/2007",
+    "race": "White",
+    "county": "Randall"
+  },
+  {
+    "execution": "396",
+    "lastName": "Reyes",
+    "firstName": "Gilberto",
+    "tdcjNumber": "999352",
+    "age": "33",
+    "executionDate": "06/21/2007",
+    "race": "Hispanic",
+    "county": "Bailey"
+  },
+  {
+    "execution": "395",
+    "lastName": "Rodriguez",
+    "firstName": "Lionell",
+    "tdcjNumber": "999002",
+    "age": "36",
+    "executionDate": "06/20/2007",
+    "race": "Hispanic",
+    "county": "Harris"
+  },
+  {
+    "execution": "394",
+    "lastName": "Griffith",
+    "firstName": "Michael",
+    "tdcjNumber": "999176",
+    "age": "56",
+    "executionDate": "06/06/2007",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "393",
+    "lastName": "Smith",
+    "firstName": "Charles",
+    "tdcjNumber": "953",
+    "age": "41",
+    "executionDate": "05/16/2007",
+    "race": "White",
+    "county": "Pecos"
+  },
+  {
+    "execution": "392",
+    "lastName": "Dickson",
+    "firstName": "Ryan",
+    "tdcjNumber": "999250",
+    "age": "30",
+    "executionDate": "04/26/2007",
+    "race": "White",
+    "county": "Potter"
+  },
+  {
+    "execution": "391",
+    "lastName": "Clark",
+    "firstName": "James",
+    "tdcjNumber": "999095",
+    "age": "38",
+    "executionDate": "04/11/2007",
+    "race": "White",
+    "county": "Denton"
+  },
+  {
+    "execution": "390",
+    "lastName": "Pippin",
+    "firstName": "Roy",
+    "tdcjNumber": "999170",
+    "age": "51",
+    "executionDate": "03/29/2007",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "389",
+    "lastName": "Gutierrez",
+    "firstName": "Vincent",
+    "tdcjNumber": "999262",
+    "age": "28",
+    "executionDate": "03/28/2007",
+    "race": "Hispanic",
+    "county": "Bexar"
+  },
+  {
+    "execution": "388",
+    "lastName": "Nealy",
+    "firstName": "Charles",
+    "tdcjNumber": "999289",
+    "age": "42",
+    "executionDate": "03/20/2007",
+    "race": "Black",
+    "county": "Dallas"
+  },
+  {
+    "execution": "387",
+    "lastName": "Nichols",
+    "firstName": "Joseph",
+    "tdcjNumber": "709",
+    "age": "45",
+    "executionDate": "03/07/2007",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "386",
+    "lastName": "Perez",
+    "firstName": "Robert",
+    "tdcjNumber": "999322",
+    "age": "48",
+    "executionDate": "03/06/2007",
+    "race": "Hispanic",
+    "county": "Dallas"
+  },
+  {
+    "execution": "385",
+    "lastName": "Miller",
+    "firstName": "Donald",
+    "tdcjNumber": "728",
+    "age": "44",
+    "executionDate": "02/27/2007",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "384",
+    "lastName": "Anderson",
+    "firstName": "Newton",
+    "tdcjNumber": "999355",
+    "age": "30",
+    "executionDate": "02/22/2007",
+    "race": "White",
+    "county": "Smith"
+  },
+  {
+    "execution": "383",
+    "lastName": "Jackson",
+    "firstName": "James",
+    "tdcjNumber": "999272",
+    "age": "47",
+    "executionDate": "02/07/2007",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "382",
+    "lastName": "Swift",
+    "firstName": "Christopher",
+    "tdcjNumber": "999496",
+    "age": "31",
+    "executionDate": "01/30/2007",
+    "race": "White",
+    "county": "Denton"
+  },
+  {
+    "execution": "381",
+    "lastName": "Moore",
+    "firstName": "Jonathan",
+    "tdcjNumber": "999216",
+    "age": "32",
+    "executionDate": "01/17/2007",
+    "race": "White",
+    "county": "Bexar"
+  },
+  {
+    "execution": "380",
+    "lastName": "Granados",
+    "firstName": "Carlos",
+    "tdcjNumber": "999307",
+    "age": "36",
+    "executionDate": "01/10/2007",
+    "race": "Hispanic",
+    "county": "Williamson"
+  },
+  {
+    "execution": "379",
+    "lastName": "Shannon",
+    "firstName": "Willie",
+    "tdcjNumber": "999086",
+    "age": "30",
+    "executionDate": "11/08/2006",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "378",
+    "lastName": "Jackson",
+    "firstName": "Donell",
+    "tdcjNumber": "999206",
+    "age": "33",
+    "executionDate": "11/01/2006",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "377",
+    "lastName": "Summers",
+    "firstName": "Gregory",
+    "tdcjNumber": "999010",
+    "age": "48",
+    "executionDate": "10/25/2006",
+    "race": "White",
+    "county": "Denton"
+  },
+  {
+    "execution": "376",
+    "lastName": "Matchett",
+    "firstName": "Farley",
+    "tdcjNumber": "999060",
+    "age": "43",
+    "executionDate": "09/12/2006",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "375",
+    "lastName": "Frazier",
+    "firstName": "Derrick",
+    "tdcjNumber": "999284",
+    "age": "29",
+    "executionDate": "08/31/2006",
+    "race": "Black",
+    "county": "Refugio"
+  },
+  {
+    "execution": "374",
+    "lastName": "Fuller",
+    "firstName": "Justin",
+    "tdcjNumber": "999266",
+    "age": "27",
+    "executionDate": "08/24/2006",
+    "race": "Black",
+    "county": "Smith"
+  },
+  {
+    "execution": "373",
+    "lastName": "Hinojosa",
+    "firstName": "Richard",
+    "tdcjNumber": "999246",
+    "age": "43",
+    "executionDate": "08/17/2006",
+    "race": "Hispanic",
+    "county": "Bexar"
+  },
+  {
+    "execution": "372",
+    "lastName": "Wyatt Jr.",
+    "firstName": "William",
+    "tdcjNumber": "999255",
+    "age": "41",
+    "executionDate": "08/03/2006",
+    "race": "Black",
+    "county": "Bowie"
+  },
+  {
+    "execution": "371",
+    "lastName": "Anderson",
+    "firstName": "Robert",
+    "tdcjNumber": "999084",
+    "age": "40",
+    "executionDate": "07/20/2006",
+    "race": "White",
+    "county": "Potter"
+  },
+  {
+    "execution": "370",
+    "lastName": "Brown",
+    "firstName": "Mauriceo",
+    "tdcjNumber": "999234",
+    "age": "31",
+    "executionDate": "07/19/2006",
+    "race": "Black",
+    "county": "Bexar"
+  },
+  {
+    "execution": "369",
+    "lastName": "O'Brien",
+    "firstName": "Derrick",
+    "tdcjNumber": "999131",
+    "age": "31",
+    "executionDate": "07/11/2006",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "368",
+    "lastName": "Resendiz",
+    "firstName": "Angel",
+    "tdcjNumber": "999356",
+    "age": "45",
+    "executionDate": "06/27/2006",
+    "race": "Hispanic",
+    "county": "Harris"
+  },
+  {
+    "execution": "367",
+    "lastName": "Reese",
+    "firstName": "Lamont",
+    "tdcjNumber": "999374",
+    "age": "28",
+    "executionDate": "06/20/2006",
+    "race": "Black",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "366",
+    "lastName": "Titsworth",
+    "firstName": "Timothy",
+    "tdcjNumber": "999078",
+    "age": "34",
+    "executionDate": "06/06/2006",
+    "race": "White",
+    "county": "Randall"
+  },
+  {
+    "execution": "365",
+    "lastName": "Aguilar",
+    "firstName": "Jesus",
+    "tdcjNumber": "999191",
+    "age": "42",
+    "executionDate": "05/24/2006",
+    "race": "Hispanic",
+    "county": "Cameron"
+  },
+  {
+    "execution": "364",
+    "lastName": "Herron",
+    "firstName": "Jermaine",
+    "tdcjNumber": "999304",
+    "age": "27",
+    "executionDate": "05/17/2006",
+    "race": "Black",
+    "county": "Refugio"
+  },
+  {
+    "execution": "363",
+    "lastName": "Wilson",
+    "firstName": "Jackie",
+    "tdcjNumber": "957",
+    "age": "39",
+    "executionDate": "05/04/2006",
+    "race": "White",
+    "county": "Dallas"
+  },
+  {
+    "execution": "362",
+    "lastName": "Kincy",
+    "firstName": "Kevin",
+    "tdcjNumber": "999179",
+    "age": "38",
+    "executionDate": "03/29/2006",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "361",
+    "lastName": "Salazar Jr.",
+    "firstName": "Robert",
+    "tdcjNumber": "999303",
+    "age": "27",
+    "executionDate": "03/22/2006",
+    "race": "Hispanic",
+    "county": "Lubbock"
+  },
+  {
+    "execution": "360",
+    "lastName": "Hughes",
+    "firstName": "Tommie",
+    "tdcjNumber": "999273",
+    "age": "31",
+    "executionDate": "03/15/2006",
+    "race": "Black",
+    "county": "Dallas"
+  },
+  {
+    "execution": "359",
+    "lastName": "Smith Jr.",
+    "firstName": "Clyde",
+    "tdcjNumber": "999088",
+    "age": "32",
+    "executionDate": "02/15/2006",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "358",
+    "lastName": "Neville Jr.",
+    "firstName": "Robert",
+    "tdcjNumber": "999293",
+    "age": "31",
+    "executionDate": "02/08/2006",
+    "race": "White",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "357",
+    "lastName": "Elizalde Jr.",
+    "firstName": "Jaime",
+    "tdcjNumber": "999230",
+    "age": "34",
+    "executionDate": "01/31/2006",
+    "race": "Hispanic",
+    "county": "Harris"
+  },
+  {
+    "execution": "356",
+    "lastName": "Dudley",
+    "firstName": "Marion",
+    "tdcjNumber": "999136",
+    "age": "33",
+    "executionDate": "01/25/2006",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "355",
+    "lastName": "Thomas",
+    "firstName": "Shannon",
+    "tdcjNumber": "999213",
+    "age": "34",
+    "executionDate": "11/16/2005",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "354",
+    "lastName": "Rowell",
+    "firstName": "Robert",
+    "tdcjNumber": "999104",
+    "age": "50",
+    "executionDate": "11/15/2005",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "353",
+    "lastName": "Thacker",
+    "firstName": "Charles",
+    "tdcjNumber": "999103",
+    "age": "37",
+    "executionDate": "11/09/2005",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "352",
+    "lastName": "White",
+    "firstName": "Melvin",
+    "tdcjNumber": "999317",
+    "age": "55",
+    "executionDate": "11/03/2005",
+    "race": "White",
+    "county": "Pecos"
+  },
+  {
+    "execution": "351",
+    "lastName": "Ramirez",
+    "firstName": "Luis",
+    "tdcjNumber": "999309",
+    "age": "42",
+    "executionDate": "10/20/2005",
+    "race": "Hispanic",
+    "county": "Tom Green"
+  },
+  {
+    "execution": "350",
+    "lastName": "Howard",
+    "firstName": "Ronald",
+    "tdcjNumber": "999069",
+    "age": "32",
+    "executionDate": "10/06/2005",
+    "race": "Black",
+    "county": "Travis"
+  },
+  {
+    "execution": "349",
+    "lastName": "Newton",
+    "firstName": "Francis",
+    "tdcjNumber": "922",
+    "age": "40",
+    "executionDate": "09/14/2005",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "348",
+    "lastName": "Shields",
+    "firstName": "Robert",
+    "tdcjNumber": "999166",
+    "age": "30",
+    "executionDate": "08/23/2005",
+    "race": "White",
+    "county": "Galveston"
+  },
+  {
+    "execution": "347",
+    "lastName": "Sterling",
+    "firstName": "Gary",
+    "tdcjNumber": "931",
+    "age": "38",
+    "executionDate": "08/10/2005",
+    "race": "Black",
+    "county": "Navarro"
+  },
+  {
+    "execution": "346",
+    "lastName": "Martinez",
+    "firstName": "David",
+    "tdcjNumber": "999288",
+    "age": "29",
+    "executionDate": "07/28/2005",
+    "race": "Hispanic",
+    "county": "Travis"
+  },
+  {
+    "execution": "345",
+    "lastName": "Martinez",
+    "firstName": "Alexander",
+    "tdcjNumber": "999438",
+    "age": "28",
+    "executionDate": "06/07/2005",
+    "race": "Hispanic",
+    "county": "Harris"
+  },
+  {
+    "execution": "344",
+    "lastName": "Cartwright",
+    "firstName": "Richard",
+    "tdcjNumber": "999224",
+    "age": "31",
+    "executionDate": "05/19/2005",
+    "race": "White",
+    "county": "Nueces"
+  },
+  {
+    "execution": "343",
+    "lastName": "Wolfe",
+    "firstName": "Bryan",
+    "tdcjNumber": "999079",
+    "age": "44",
+    "executionDate": "05/18/2005",
+    "race": "Black",
+    "county": "Jefferson"
+  },
+  {
+    "execution": "342",
+    "lastName": "Pursley",
+    "firstName": "Lonnie",
+    "tdcjNumber": "999294",
+    "age": "43",
+    "executionDate": "05/03/2005",
+    "race": "White",
+    "county": "Polk"
+  },
+  {
+    "execution": "341",
+    "lastName": "Roberts",
+    "firstName": "Douglas",
+    "tdcjNumber": "999218",
+    "age": "42",
+    "executionDate": "04/20/2005",
+    "race": "White",
+    "county": "Kendall"
+  },
+  {
+    "execution": "340",
+    "lastName": "Hopper",
+    "firstName": "George",
+    "tdcjNumber": "999037",
+    "age": "49",
+    "executionDate": "03/08/2005",
+    "race": "White",
+    "county": "Dallas"
+  },
+  {
+    "execution": "339",
+    "lastName": "Bagwell",
+    "firstName": "Dennis",
+    "tdcjNumber": "999209",
+    "age": "41",
+    "executionDate": "02/17/2005",
+    "race": "White",
+    "county": "Atascosa"
+  },
+  {
+    "execution": "338",
+    "lastName": "Kunkle",
+    "firstName": "Troy",
+    "tdcjNumber": "784",
+    "age": "38",
+    "executionDate": "01/25/2005",
+    "race": "White",
+    "county": "Nueces"
+  },
+  {
+    "execution": "337",
+    "lastName": "Porter",
+    "firstName": "James",
+    "tdcjNumber": "999378",
+    "age": "33",
+    "executionDate": "01/04/2005",
+    "race": "White",
+    "county": "Bowie"
+  },
+  {
+    "execution": "336",
+    "lastName": "Fuentes",
+    "firstName": "Anthony",
+    "tdcjNumber": "999215",
+    "age": "30",
+    "executionDate": "11/17/2004",
+    "race": "Hispanic",
+    "county": "Harris"
+  },
+  {
+    "execution": "335",
+    "lastName": "McWilliams",
+    "firstName": "Frederick",
+    "tdcjNumber": "999242",
+    "age": "30",
+    "executionDate": "11/10/2004",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "334",
+    "lastName": "McCullum",
+    "firstName": "Demarco",
+    "tdcjNumber": "999180",
+    "age": "30",
+    "executionDate": "11/09/2004",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "333",
+    "lastName": "Morrow",
+    "firstName": "Robert",
+    "tdcjNumber": "999244",
+    "age": "47",
+    "executionDate": "11/04/2004",
+    "race": "White",
+    "county": "Liberty"
+  },
+  {
+    "execution": "332",
+    "lastName": "Morris",
+    "firstName": "Lorenzo",
+    "tdcjNumber": "999038",
+    "age": "52",
+    "executionDate": "11/02/2004",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "331",
+    "lastName": "Green",
+    "firstName": "Dominique",
+    "tdcjNumber": "999068",
+    "age": "30",
+    "executionDate": "10/26/2004",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "330",
+    "lastName": "Morrow",
+    "firstName": "Ricky",
+    "tdcjNumber": "753",
+    "age": "53",
+    "executionDate": "10/20/2004",
+    "race": "White",
+    "county": "Dallas"
+  },
+  {
+    "execution": "329",
+    "lastName": "Aldrich",
+    "firstName": "Donald",
+    "tdcjNumber": "999113",
+    "age": "39",
+    "executionDate": "10/12/2004",
+    "race": "White",
+    "county": "Kerr"
+  },
+  {
+    "execution": "328",
+    "lastName": "Miniel",
+    "firstName": "Peter",
+    "tdcjNumber": "920",
+    "age": "42",
+    "executionDate": "10/06/2004",
+    "race": "Hispanic",
+    "county": "Harris"
+  },
+  {
+    "execution": "327",
+    "lastName": "Green",
+    "firstName": "Edward",
+    "tdcjNumber": "999073",
+    "age": "30",
+    "executionDate": "10/05/2004",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "326",
+    "lastName": "Flores",
+    "firstName": "Andrew",
+    "tdcjNumber": "999100",
+    "age": "32",
+    "executionDate": "09/21/2004",
+    "race": "Hispanic",
+    "county": "Bexar"
+  },
+  {
+    "execution": "325",
+    "lastName": "Allridge III",
+    "firstName": "James",
+    "tdcjNumber": "870",
+    "age": "41",
+    "executionDate": "08/26/2004",
+    "race": "Black",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "324",
+    "lastName": "Busby",
+    "firstName": "Jasen",
+    "tdcjNumber": "999201",
+    "age": "28",
+    "executionDate": "08/25/2004",
+    "race": "White",
+    "county": "Cherokee"
+  },
+  {
+    "execution": "323",
+    "lastName": "Harris",
+    "firstName": "David",
+    "tdcjNumber": "827",
+    "age": "43",
+    "executionDate": "06/30/2004",
+    "race": "White",
+    "county": "Jefferson"
+  },
+  {
+    "execution": "322",
+    "lastName": "Patterson",
+    "firstName": "Kelsey",
+    "tdcjNumber": "999065",
+    "age": "50",
+    "executionDate": "05/18/2004",
+    "race": "Black",
+    "county": "Anderson"
+  },
+  {
+    "execution": "321",
+    "lastName": "Cotton",
+    "firstName": "Marcus",
+    "tdcjNumber": "999252",
+    "age": "29",
+    "executionDate": "03/03/2004",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "320",
+    "lastName": "Willingham",
+    "firstName": "Cameron",
+    "tdcjNumber": "999041",
+    "age": "36",
+    "executionDate": "02/17/2004",
+    "race": "White",
+    "county": "Navarro"
+  },
+  {
+    "execution": "319",
+    "lastName": "Hopkins",
+    "firstName": "Bobby",
+    "tdcjNumber": "999101",
+    "age": "36",
+    "executionDate": "02/12/2004",
+    "race": "Black",
+    "county": "Johnson"
+  },
+  {
+    "execution": "318",
+    "lastName": "Lagrone",
+    "firstName": "Edward",
+    "tdcjNumber": "999083",
+    "age": "46",
+    "executionDate": "02/11/2004",
+    "race": "Black",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "317",
+    "lastName": "Vickers",
+    "firstName": "Billy",
+    "tdcjNumber": "999087",
+    "age": "58",
+    "executionDate": "01/28/2004",
+    "race": "White",
+    "county": "Lamar"
+  },
+  {
+    "execution": "316",
+    "lastName": "Zimmerman",
+    "firstName": "Kevin",
+    "tdcjNumber": "977",
+    "age": "42",
+    "executionDate": "01/21/2004",
+    "race": "White",
+    "county": "Jefferson"
+  },
+  {
+    "execution": "315",
+    "lastName": "Bruce",
+    "firstName": "Kenneth",
+    "tdcjNumber": "999023",
+    "age": "32",
+    "executionDate": "01/14/2004",
+    "race": "Black",
+    "county": "Collin"
+  },
+  {
+    "execution": "314",
+    "lastName": "Matthews",
+    "firstName": "Ynobe",
+    "tdcjNumber": "999387",
+    "age": "27",
+    "executionDate": "01/06/2004",
+    "race": "Black",
+    "county": "Brazos"
+  },
+  {
+    "execution": "313",
+    "lastName": "Murphy",
+    "firstName": "Ivan",
+    "tdcjNumber": "989",
+    "age": "38",
+    "executionDate": "12/04/2003",
+    "race": "White",
+    "county": "Grayson"
+  },
+  {
+    "execution": "312",
+    "lastName": "Duncan",
+    "firstName": "Richard",
+    "tdcjNumber": "999153",
+    "age": "61",
+    "executionDate": "12/03/2003",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "311",
+    "lastName": "Henry",
+    "firstName": "Robert",
+    "tdcjNumber": "999129",
+    "age": "41",
+    "executionDate": "11/20/2003",
+    "race": "White",
+    "county": "San Patricio"
+  },
+  {
+    "execution": "310",
+    "lastName": "Hayes",
+    "firstName": "Larry",
+    "tdcjNumber": "999358",
+    "age": "54",
+    "executionDate": "09/10/2003",
+    "race": "White",
+    "county": "Montgomery"
+  },
+  {
+    "execution": "309",
+    "lastName": "Janecka",
+    "firstName": "Allen",
+    "tdcjNumber": "684",
+    "age": "53",
+    "executionDate": "07/24/2003",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "308",
+    "lastName": "Ransom",
+    "firstName": "Cedric",
+    "tdcjNumber": "999050",
+    "age": "29",
+    "executionDate": "07/23/2003",
+    "race": "Black",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "307",
+    "lastName": "Black, Sr.",
+    "firstName": "Christopher",
+    "tdcjNumber": "999277",
+    "age": "43",
+    "executionDate": "07/09/2003",
+    "race": "Black",
+    "county": "Bell"
+  },
+  {
+    "execution": "306",
+    "lastName": "Crawford",
+    "firstName": "Hilton",
+    "tdcjNumber": "999200",
+    "age": "64",
+    "executionDate": "07/02/2003",
+    "race": "White",
+    "county": "Montgomery"
+  },
+  {
+    "execution": "305",
+    "lastName": "Johnson",
+    "firstName": "Kia",
+    "tdcjNumber": "999139",
+    "age": "38",
+    "executionDate": "06/11/2003",
+    "race": "Black",
+    "county": "Bexar"
+  },
+  {
+    "execution": "304",
+    "lastName": "Jacobs",
+    "firstName": "Bruce",
+    "tdcjNumber": "876",
+    "age": "56",
+    "executionDate": "05/15/2003",
+    "race": "White",
+    "county": "Dallas"
+  },
+  {
+    "execution": "303",
+    "lastName": "Vaughn",
+    "firstName": "Roger",
+    "tdcjNumber": "999029",
+    "age": "48",
+    "executionDate": "05/06/2003",
+    "race": "White",
+    "county": "Wilbarger"
+  },
+  {
+    "execution": "302",
+    "lastName": "Chavez",
+    "firstName": "John",
+    "tdcjNumber": "999186",
+    "age": "34",
+    "executionDate": "04/22/2003",
+    "race": "Hispanic",
+    "county": "Dallas"
+  },
+  {
+    "execution": "301",
+    "lastName": "Colburn",
+    "firstName": "James",
+    "tdcjNumber": "999169",
+    "age": "43",
+    "executionDate": "03/26/2003",
+    "race": "White",
+    "county": "Montgomery"
+  },
+  {
+    "execution": "300",
+    "lastName": "Clay",
+    "firstName": "Keith",
+    "tdcjNumber": "999238",
+    "age": "35",
+    "executionDate": "03/20/2003",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "299",
+    "lastName": "Cook",
+    "firstName": "Bobby",
+    "tdcjNumber": "999094",
+    "age": "41",
+    "executionDate": "03/11/2003",
+    "race": "White",
+    "county": "Anderson"
+  },
+  {
+    "execution": "298",
+    "lastName": "Williams",
+    "firstName": "Richard",
+    "tdcjNumber": "999251",
+    "age": "33",
+    "executionDate": "02/25/2003",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "297",
+    "lastName": "Dunn, Jr.",
+    "firstName": "Henry",
+    "tdcjNumber": "999165",
+    "age": "28",
+    "executionDate": "02/06/2003",
+    "race": "Black",
+    "county": "Smith"
+  },
+  {
+    "execution": "296",
+    "lastName": "Elliott",
+    "firstName": "John",
+    "tdcjNumber": "861",
+    "age": "42",
+    "executionDate": "02/04/2003",
+    "race": "Hispanic",
+    "county": "Travis"
+  },
+  {
+    "execution": "295",
+    "lastName": "Riddle",
+    "firstName": "Granville",
+    "tdcjNumber": "965",
+    "age": "33",
+    "executionDate": "01/30/2003",
+    "race": "White",
+    "county": "Potter"
+  },
+  {
+    "execution": "294",
+    "lastName": "Dinkins",
+    "firstName": "Richard",
+    "tdcjNumber": "999022",
+    "age": "40",
+    "executionDate": "01/29/2003",
+    "race": "White",
+    "county": "Jefferson"
+  },
+  {
+    "execution": "293",
+    "lastName": "Curry",
+    "firstName": "Alva",
+    "tdcjNumber": "999080",
+    "age": "32",
+    "executionDate": "01/28/2003",
+    "race": "Black",
+    "county": "Travis"
+  },
+  {
+    "execution": "292",
+    "lastName": "Lookingbill",
+    "firstName": "Robert",
+    "tdcjNumber": "990",
+    "age": "37",
+    "executionDate": "01/22/2003",
+    "race": "White",
+    "county": "Hidalgo"
+  },
+  {
+    "execution": "291",
+    "lastName": "Baltazar",
+    "firstName": "John",
+    "tdcjNumber": "999257",
+    "age": "30",
+    "executionDate": "01/15/2003",
+    "race": "Hispanic",
+    "county": "Nueces"
+  },
+  {
+    "execution": "290",
+    "lastName": "Gallamore",
+    "firstName": "Samuel",
+    "tdcjNumber": "999090",
+    "age": "31",
+    "executionDate": "01/14/2003",
+    "race": "White",
+    "county": "Comal"
+  },
+  {
+    "execution": "289",
+    "lastName": "Collier",
+    "firstName": "James",
+    "tdcjNumber": "999190",
+    "age": "55",
+    "executionDate": "12/11/2002",
+    "race": "White",
+    "county": "Wichita"
+  },
+  {
+    "execution": "288",
+    "lastName": "Rojas",
+    "firstName": "Leonard",
+    "tdcjNumber": "999194",
+    "age": "52",
+    "executionDate": "12/04/2002",
+    "race": "Hispanic",
+    "county": "Johnson"
+  },
+  {
+    "execution": "287",
+    "lastName": "Chappell",
+    "firstName": "William",
+    "tdcjNumber": "960",
+    "age": "66",
+    "executionDate": "11/20/2002",
+    "race": "White",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "286",
+    "lastName": "Ogan",
+    "firstName": "Craig",
+    "tdcjNumber": "979",
+    "age": "47",
+    "executionDate": "11/19/2002",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "285",
+    "lastName": "Powell",
+    "firstName": "James",
+    "tdcjNumber": "999001",
+    "age": "56",
+    "executionDate": "10/01/2002",
+    "race": "White",
+    "county": "Newton"
+  },
+  {
+    "execution": "284",
+    "lastName": "King",
+    "firstName": "Calvin",
+    "tdcjNumber": "999152",
+    "age": "48",
+    "executionDate": "09/25/2002",
+    "race": "Black",
+    "county": "Jefferson"
+  },
+  {
+    "execution": "283",
+    "lastName": "Mays",
+    "firstName": "Rex",
+    "tdcjNumber": "999172",
+    "age": "42",
+    "executionDate": "09/24/2002",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "282",
+    "lastName": "Shamburger",
+    "firstName": "Ron",
+    "tdcjNumber": "999167",
+    "age": "30",
+    "executionDate": "09/18/2002",
+    "race": "White",
+    "county": "Brazos"
+  },
+  {
+    "execution": "281",
+    "lastName": "Patrick",
+    "firstName": "Jessie",
+    "tdcjNumber": "975",
+    "age": "44",
+    "executionDate": "09/17/2002",
+    "race": "White",
+    "county": "Dallas"
+  },
+  {
+    "execution": "280",
+    "lastName": "Walker",
+    "firstName": "Tony",
+    "tdcjNumber": "999082",
+    "age": "36",
+    "executionDate": "09/10/2002",
+    "race": "Black",
+    "county": "Morris"
+  },
+  {
+    "execution": "279",
+    "lastName": "Patterson",
+    "firstName": "Toronto",
+    "tdcjNumber": "999178",
+    "age": "24",
+    "executionDate": "08/28/2002",
+    "race": "Black",
+    "county": "Dallas"
+  },
+  {
+    "execution": "278",
+    "lastName": "Etheridge",
+    "firstName": "Gary",
+    "tdcjNumber": "986",
+    "age": "38",
+    "executionDate": "08/20/2002",
+    "race": "White",
+    "county": "Brazoria"
+  },
+  {
+    "execution": "277",
+    "lastName": "Medina",
+    "firstName": "Javier",
+    "tdcjNumber": "944",
+    "age": "33",
+    "executionDate": "08/14/2002",
+    "race": "Hispanic",
+    "county": "Dallas"
+  },
+  {
+    "execution": "276",
+    "lastName": "Jones",
+    "firstName": "T.J.",
+    "tdcjNumber": "999133",
+    "age": "25",
+    "executionDate": "08/08/2002",
+    "race": "Black",
+    "county": "Gregg"
+  },
+  {
+    "execution": "275",
+    "lastName": "Kutzner",
+    "firstName": "Richard",
+    "tdcjNumber": "999227",
+    "age": "59",
+    "executionDate": "08/07/2002",
+    "race": "White",
+    "county": "Montgomery"
+  },
+  {
+    "execution": "274",
+    "lastName": "Williams",
+    "firstName": "Jeffrey",
+    "tdcjNumber": "999154",
+    "age": "30",
+    "executionDate": "06/26/2002",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "273",
+    "lastName": "Coulson",
+    "firstName": "Robert",
+    "tdcjNumber": "999115",
+    "age": "34",
+    "executionDate": "06/25/2002",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "272",
+    "lastName": "Reneau",
+    "firstName": "Daniel",
+    "tdcjNumber": "999223",
+    "age": "27",
+    "executionDate": "06/13/2002",
+    "race": "White",
+    "county": "Gillespie"
+  },
+  {
+    "execution": "271",
+    "lastName": "Baker, Jr.",
+    "firstName": "Stanley",
+    "tdcjNumber": "999157 ",
+    "age": "35 ",
+    "executionDate": "05/30/2002",
+    "race": "White",
+    "county": "Brazos "
+  },
+  {
+    "execution": "270",
+    "lastName": "Beazley",
+    "firstName": "Napoleon",
+    "tdcjNumber": "999141 ",
+    "age": "25 ",
+    "executionDate": "05/28/2002",
+    "race": "Black",
+    "county": "Smith "
+  },
+  {
+    "execution": "269",
+    "lastName": "Martinez",
+    "firstName": "Johnny",
+    "tdcjNumber": "999089 ",
+    "age": "29 ",
+    "executionDate": "05/22/2002",
+    "race": "Hispanic",
+    "county": "Nueces "
+  },
+  {
+    "execution": "268",
+    "lastName": "Styron",
+    "firstName": "Ronford",
+    "tdcjNumber": "999124 ",
+    "age": "32",
+    "executionDate": "05/16/2002",
+    "race": "White",
+    "county": "Liberty "
+  },
+  {
+    "execution": "267",
+    "lastName": "Reeves",
+    "firstName": "Reginald",
+    "tdcjNumber": "999119 ",
+    "age": "28 ",
+    "executionDate": "05/09/2002",
+    "race": "Black",
+    "county": "Red River "
+  },
+  {
+    "execution": "266",
+    "lastName": "Hernandez",
+    "firstName": "Rodolfo",
+    "tdcjNumber": "807 ",
+    "age": "54 ",
+    "executionDate": "04/30/2002",
+    "race": "Hispanic",
+    "county": "Comal "
+  },
+  {
+    "execution": "265",
+    "lastName": "Casey",
+    "firstName": "Gerald",
+    "tdcjNumber": "999013 ",
+    "age": "47 ",
+    "executionDate": "04/18/2002",
+    "race": "White",
+    "county": "Montgomery "
+  },
+  {
+    "execution": "264",
+    "lastName": "Burns",
+    "firstName": "William",
+    "tdcjNumber": "692 ",
+    "age": "43 ",
+    "executionDate": "04/11/2002",
+    "race": "Black",
+    "county": "Bowie "
+  },
+  {
+    "execution": "263",
+    "lastName": "Santellan, Sr.",
+    "firstName": "Jose",
+    "tdcjNumber": "999140 ",
+    "age": "40 ",
+    "executionDate": "04/10/2002",
+    "race": "Hispanic",
+    "county": "Kerr "
+  },
+  {
+    "execution": "262",
+    "lastName": "Tigner",
+    "firstName": "Gerald",
+    "tdcjNumber": "999099 ",
+    "age": "29 ",
+    "executionDate": "03/07/2002",
+    "race": "Black",
+    "county": "McLennan "
+  },
+  {
+    "execution": "261",
+    "lastName": "Delk",
+    "firstName": "Monty",
+    "tdcjNumber": "900 ",
+    "age": "35 ",
+    "executionDate": "02/28/2002",
+    "race": "White",
+    "county": "Anderson "
+  },
+  {
+    "execution": "260",
+    "lastName": "Hafdahl, Sr.",
+    "firstName": "Randall",
+    "tdcjNumber": "826 ",
+    "age": "48 ",
+    "executionDate": "01/31/2002",
+    "race": "White",
+    "county": "Randall "
+  },
+  {
+    "execution": "259",
+    "lastName": "Broussard",
+    "firstName": "Windell",
+    "tdcjNumber": "999064 ",
+    "age": "41 ",
+    "executionDate": "01/30/2002",
+    "race": "Black",
+    "county": "Jefferson "
+  },
+  {
+    "execution": "258",
+    "lastName": "Arnold",
+    "firstName": "Jermarr",
+    "tdcjNumber": "987 ",
+    "age": "43 ",
+    "executionDate": "01/16/2002",
+    "race": "Black",
+    "county": "Nueces "
+  },
+  {
+    "execution": "257",
+    "lastName": "Moore",
+    "firstName": "Michael",
+    "tdcjNumber": "999126 ",
+    "age": "31 ",
+    "executionDate": "01/09/2002",
+    "race": "White",
+    "county": "Coryell "
+  },
+  {
+    "execution": "256",
+    "lastName": "Cooks",
+    "firstName": "Vincent",
+    "tdcjNumber": "927 ",
+    "age": "37 ",
+    "executionDate": "12/12/2001",
+    "race": "Black",
+    "county": "Dallas "
+  },
+  {
+    "execution": "255",
+    "lastName": "Rudd",
+    "firstName": "Emerson",
+    "tdcjNumber": "936 ",
+    "age": "31 ",
+    "executionDate": "11/15/2001",
+    "race": "Black",
+    "county": "Dallas "
+  },
+  {
+    "execution": "254",
+    "lastName": "Tucker",
+    "firstName": "Jeffery",
+    "tdcjNumber": "952 ",
+    "age": "41 ",
+    "executionDate": "11/14/2001",
+    "race": "White",
+    "county": "Parker "
+  },
+  {
+    "execution": "253",
+    "lastName": "Mitchell",
+    "firstName": "Gerald",
+    "tdcjNumber": "838 ",
+    "age": "33 ",
+    "executionDate": "10/22/2001",
+    "race": "Black",
+    "county": "Harris "
+  },
+  {
+    "execution": "252",
+    "lastName": "Knox",
+    "firstName": "James",
+    "tdcjNumber": "823 ",
+    "age": "50 ",
+    "executionDate": "09/18/2001",
+    "race": "White",
+    "county": "Galveston "
+  },
+  {
+    "execution": "251",
+    "lastName": "Doughtie",
+    "firstName": "Jeffery",
+    "tdcjNumber": "999106 ",
+    "age": "39 ",
+    "executionDate": "08/16/2001",
+    "race": "White",
+    "county": "Nueces "
+  },
+  {
+    "execution": "250",
+    "lastName": "Hill",
+    "firstName": "Mack",
+    "tdcjNumber": "961 ",
+    "age": "47 ",
+    "executionDate": "08/08/2001",
+    "race": "White",
+    "county": "Lubbock "
+  },
+  {
+    "execution": "249",
+    "lastName": "Wilkens",
+    "firstName": "James",
+    "tdcjNumber": "897 ",
+    "age": "39 ",
+    "executionDate": "07/11/2001",
+    "race": "White",
+    "county": "Smith "
+  },
+  {
+    "execution": "248",
+    "lastName": "Richardson",
+    "firstName": "Miguel",
+    "tdcjNumber": "691",
+    "age": "46",
+    "executionDate": "06/26/2001",
+    "race": "Black",
+    "county": "Bexar"
+  },
+  {
+    "execution": "247",
+    "lastName": "Wheat",
+    "firstName": "John",
+    "tdcjNumber": "999222",
+    "age": "57",
+    "executionDate": "06/13/2001",
+    "race": "White",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "246",
+    "lastName": "Goff",
+    "firstName": "David",
+    "tdcjNumber": "999015",
+    "age": "31",
+    "executionDate": "04/25/2001",
+    "race": "Black",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "245",
+    "lastName": "Massey",
+    "firstName": "Jason",
+    "tdcjNumber": "999121",
+    "age": "28",
+    "executionDate": "04/03/2001",
+    "race": "White",
+    "county": "Ellis"
+  },
+  {
+    "execution": "244",
+    "lastName": "Dowthitt",
+    "firstName": "Dennis",
+    "tdcjNumber": "999047",
+    "age": "55",
+    "executionDate": "03/07/2001",
+    "race": "White",
+    "county": "Montgomery"
+  },
+  {
+    "execution": "243",
+    "lastName": "Hernandez",
+    "firstName": "Adolph",
+    "tdcjNumber": "978",
+    "age": "50",
+    "executionDate": "02/08/2001",
+    "race": "Hispanic",
+    "county": "Lubbock"
+  },
+  {
+    "execution": "242",
+    "lastName": "Alexander",
+    "firstName": "Caruthers",
+    "tdcjNumber": "704",
+    "age": "52",
+    "executionDate": "01/29/2001",
+    "race": "Black",
+    "county": "Bexar"
+  },
+  {
+    "execution": "241",
+    "lastName": "Goodwin",
+    "firstName": "Alvin",
+    "tdcjNumber": "879",
+    "age": "37",
+    "executionDate": "01/18/2001",
+    "race": "White",
+    "county": "Montgomery"
+  },
+  {
+    "execution": "240",
+    "lastName": "Clark",
+    "firstName": "Jack",
+    "tdcjNumber": "994",
+    "age": "37",
+    "executionDate": "01/09/2001",
+    "race": "White",
+    "county": "Lubbock"
+  },
+  {
+    "execution": "239",
+    "lastName": "Jones",
+    "firstName": "Claude",
+    "tdcjNumber": "980",
+    "age": "60",
+    "executionDate": "12/07/2000",
+    "race": "White",
+    "county": "San Jacinto"
+  },
+  {
+    "execution": "238",
+    "lastName": "Hittle",
+    "firstName": "Daniel",
+    "tdcjNumber": "981",
+    "age": "50",
+    "executionDate": "12/06/2000",
+    "race": "White",
+    "county": "Dallas"
+  },
+  {
+    "execution": "237",
+    "lastName": "Miller",
+    "firstName": "Garry",
+    "tdcjNumber": "947",
+    "age": "33",
+    "executionDate": "12/05/2000",
+    "race": "White",
+    "county": "Jones"
+  },
+  {
+    "execution": "236",
+    "lastName": "Chambers",
+    "firstName": "Tony",
+    "tdcjNumber": "999009",
+    "age": "32",
+    "executionDate": "11/15/2000",
+    "race": "Black",
+    "county": "Smith"
+  },
+  {
+    "execution": "235",
+    "lastName": "Lawton",
+    "firstName": "Stacey",
+    "tdcjNumber": "999066",
+    "age": "31",
+    "executionDate": "11/14/2000",
+    "race": "Black",
+    "county": "Smith"
+  },
+  {
+    "execution": "234",
+    "lastName": "Flores",
+    "firstName": "Miguel",
+    "tdcjNumber": "983",
+    "age": "31",
+    "executionDate": "11/09/2000",
+    "race": "Hispanic",
+    "county": "Collin"
+  },
+  {
+    "execution": "233",
+    "lastName": "Dillingham",
+    "firstName": "Jeffery",
+    "tdcjNumber": "999071",
+    "age": "27",
+    "executionDate": "11/01/2000",
+    "race": "White",
+    "county": "Wichita"
+  },
+  {
+    "execution": "232",
+    "lastName": "McGinn",
+    "firstName": "Ricky",
+    "tdcjNumber": "999150",
+    "age": "43",
+    "executionDate": "09/27/2000",
+    "race": "White",
+    "county": "Brown"
+  },
+  {
+    "execution": "231",
+    "lastName": "Caldwell",
+    "firstName": "Jeffery",
+    "tdcjNumber": "938",
+    "age": "37",
+    "executionDate": "08/30/2000",
+    "race": "Black",
+    "county": "Dallas"
+  },
+  {
+    "execution": "230",
+    "lastName": "Gibbs",
+    "firstName": "David",
+    "tdcjNumber": "825",
+    "age": "39",
+    "executionDate": "08/23/2000",
+    "race": "White",
+    "county": "Montgomery"
+  },
+  {
+    "execution": "229",
+    "lastName": "Jones",
+    "firstName": "Richard",
+    "tdcjNumber": "882",
+    "age": "40",
+    "executionDate": "08/22/2000",
+    "race": "White",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "228",
+    "lastName": "Satterwhite",
+    "firstName": "John",
+    "tdcjNumber": "651",
+    "age": "53",
+    "executionDate": "08/16/2000",
+    "race": "Black",
+    "county": "Bexar"
+  },
+  {
+    "execution": "227",
+    "lastName": "Cruz",
+    "firstName": "Oliver",
+    "tdcjNumber": "954",
+    "age": "33",
+    "executionDate": "08/09/2000",
+    "race": "Hispanic",
+    "county": "Bexar"
+  },
+  {
+    "execution": "226",
+    "lastName": "Roberson",
+    "firstName": "Brian",
+    "tdcjNumber": "886",
+    "age": "36",
+    "executionDate": "08/09/2000",
+    "race": "Black",
+    "county": "Dallas"
+  },
+  {
+    "execution": "225",
+    "lastName": "Soria",
+    "firstName": "Juan",
+    "tdcjNumber": "837",
+    "age": "33",
+    "executionDate": "07/26/2000",
+    "race": "Hispanic",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "224",
+    "lastName": "Joiner",
+    "firstName": "Orien",
+    "tdcjNumber": "902",
+    "age": "50",
+    "executionDate": "07/12/2000",
+    "race": "White",
+    "county": "Lubbock"
+  },
+  {
+    "execution": "223",
+    "lastName": "San Miguel",
+    "firstName": "Jessy",
+    "tdcjNumber": "999008",
+    "age": "28",
+    "executionDate": "06/29/2000",
+    "race": "Hispanic",
+    "county": "Dallas"
+  },
+  {
+    "execution": "222",
+    "lastName": "Graham",
+    "firstName": "Gary",
+    "tdcjNumber": "696",
+    "age": "39",
+    "executionDate": "06/22/2000",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "221",
+    "lastName": "Nuncio",
+    "firstName": "Paul",
+    "tdcjNumber": "999158",
+    "age": "32",
+    "executionDate": "06/15/2000",
+    "race": "Hispanic",
+    "county": "Hale"
+  },
+  {
+    "execution": "220",
+    "lastName": "Burks",
+    "firstName": "John",
+    "tdcjNumber": "949",
+    "age": "44",
+    "executionDate": "06/14/2000",
+    "race": "Black",
+    "county": "McLennan"
+  },
+  {
+    "execution": "219",
+    "lastName": "Mason",
+    "firstName": "Thomas",
+    "tdcjNumber": "999035",
+    "age": "48",
+    "executionDate": "06/12/2000",
+    "race": "White",
+    "county": "Smith"
+  },
+  {
+    "execution": "218",
+    "lastName": "Carter",
+    "firstName": "Robert",
+    "tdcjNumber": "999091",
+    "age": "34",
+    "executionDate": "05/31/2000",
+    "race": "Black",
+    "county": "Bastrop"
+  },
+  {
+    "execution": "217",
+    "lastName": "Clayton",
+    "firstName": "James",
+    "tdcjNumber": "921",
+    "age": "33",
+    "executionDate": "05/25/2000",
+    "race": "Black",
+    "county": "Taylor"
+  },
+  {
+    "execution": "216",
+    "lastName": "Foster",
+    "firstName": "Richard",
+    "tdcjNumber": "815",
+    "age": "47",
+    "executionDate": "05/24/2000",
+    "race": "White",
+    "county": "Parker"
+  },
+  {
+    "execution": "215",
+    "lastName": "Richardson",
+    "firstName": "James",
+    "tdcjNumber": "867",
+    "age": "32",
+    "executionDate": "05/23/2000",
+    "race": "Black",
+    "county": "Navarro"
+  },
+  {
+    "execution": "214",
+    "lastName": "McBride",
+    "firstName": "Michael",
+    "tdcjNumber": "903",
+    "age": "38",
+    "executionDate": "05/11/2000",
+    "race": "White",
+    "county": "Lubbock"
+  },
+  {
+    "execution": "213",
+    "lastName": "Kitchens",
+    "firstName": "William",
+    "tdcjNumber": "840",
+    "age": "37",
+    "executionDate": "05/09/2000",
+    "race": "White",
+    "county": "Taylor"
+  },
+  {
+    "execution": "212",
+    "lastName": "Jackson",
+    "firstName": "Tommy",
+    "tdcjNumber": "821",
+    "age": "43",
+    "executionDate": "05/04/2000",
+    "race": "Black",
+    "county": "Williamson"
+  },
+  {
+    "execution": "211",
+    "lastName": "Gribble",
+    "firstName": "Timothy",
+    "tdcjNumber": "929",
+    "age": "36",
+    "executionDate": "03/15/2000",
+    "race": "White",
+    "county": "Galveston"
+  },
+  {
+    "execution": "210",
+    "lastName": "Wilkerson",
+    "firstName": "Ponchai",
+    "tdcjNumber": "999011",
+    "age": "28",
+    "executionDate": "03/14/2000",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "209",
+    "lastName": "Barnes, Jr.",
+    "firstName": "Odell",
+    "tdcjNumber": "998",
+    "age": "31",
+    "executionDate": "03/01/2000",
+    "race": "Black",
+    "county": "Lubbock"
+  },
+  {
+    "execution": "208",
+    "lastName": "Beets",
+    "firstName": "Betty",
+    "tdcjNumber": "810",
+    "age": "62",
+    "executionDate": "02/24/2000",
+    "race": "White",
+    "county": "Henderson"
+  },
+  {
+    "execution": "207",
+    "lastName": "Goss",
+    "firstName": "Cornelius",
+    "tdcjNumber": "912",
+    "age": "38",
+    "executionDate": "02/23/2000",
+    "race": "Black",
+    "county": "Dallas"
+  },
+  {
+    "execution": "206",
+    "lastName": "Moreland",
+    "firstName": "James",
+    "tdcjNumber": "741",
+    "age": "39",
+    "executionDate": "01/27/2000",
+    "race": "White",
+    "county": "Henderson"
+  },
+  {
+    "execution": "205",
+    "lastName": "McGinnis",
+    "firstName": "Glen",
+    "tdcjNumber": "999039",
+    "age": "27",
+    "executionDate": "01/25/2000",
+    "race": "Black",
+    "county": "Montgomery"
+  },
+  {
+    "execution": "204",
+    "lastName": "Hughes, Jr.",
+    "firstName": "Billy",
+    "tdcjNumber": "556",
+    "age": "47",
+    "executionDate": "01/24/2000",
+    "race": "White",
+    "county": "Matagorda"
+  },
+  {
+    "execution": "203",
+    "lastName": "Robison",
+    "firstName": "Larry",
+    "tdcjNumber": "748",
+    "age": "42",
+    "executionDate": "01/21/2000",
+    "race": "White",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "202",
+    "lastName": "Hicks",
+    "firstName": "David",
+    "tdcjNumber": "930",
+    "age": "38",
+    "executionDate": "01/20/2000",
+    "race": "Black",
+    "county": "Freestone"
+  },
+  {
+    "execution": "201",
+    "lastName": "Goodman",
+    "firstName": "Spencer",
+    "tdcjNumber": "999031",
+    "age": "31",
+    "executionDate": "01/18/2000",
+    "race": "White",
+    "county": "Fort Bend"
+  },
+  {
+    "execution": "200",
+    "lastName": "Heiselbetz, Jr.",
+    "firstName": "Earl",
+    "tdcjNumber": "999014",
+    "age": "48",
+    "executionDate": "01/12/2000",
+    "race": "White",
+    "county": "Sabine"
+  },
+  {
+    "execution": "199",
+    "lastName": "Felder, Jr.",
+    "firstName": "Sammie",
+    "tdcjNumber": "550",
+    "age": "54",
+    "executionDate": "12/15/1999",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "198",
+    "lastName": "Atworth",
+    "firstName": "Robert",
+    "tdcjNumber": "999199",
+    "age": "30",
+    "executionDate": "12/14/1999",
+    "race": "White",
+    "county": "Dallas"
+  },
+  {
+    "execution": "197",
+    "lastName": "Beathard",
+    "firstName": "James",
+    "tdcjNumber": "785",
+    "age": "42",
+    "executionDate": "12/09/1999",
+    "race": "White",
+    "county": "Trinity"
+  },
+  {
+    "execution": "196",
+    "lastName": "Long",
+    "firstName": "David",
+    "tdcjNumber": "862",
+    "age": "46",
+    "executionDate": "12/08/1999",
+    "race": "White",
+    "county": "Dallas"
+  },
+  {
+    "execution": "195",
+    "lastName": "Gutierrez",
+    "firstName": "Jose",
+    "tdcjNumber": "970",
+    "age": "39",
+    "executionDate": "11/18/1999",
+    "race": "Hispanic",
+    "county": "Brazos"
+  },
+  {
+    "execution": "194",
+    "lastName": "Lamb",
+    "firstName": "John",
+    "tdcjNumber": "734",
+    "age": "42",
+    "executionDate": "11/17/1999",
+    "race": "White",
+    "county": "Hunt"
+  },
+  {
+    "execution": "193",
+    "lastName": "Jennings",
+    "firstName": "Desmond",
+    "tdcjNumber": "999161",
+    "age": "28",
+    "executionDate": "11/16/1999",
+    "race": "Black",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "192",
+    "lastName": "Cantu, Jr.",
+    "firstName": "Domingo",
+    "tdcjNumber": "924",
+    "age": "31",
+    "executionDate": "10/28/1999",
+    "race": "Hispanic",
+    "county": "Dallas"
+  },
+  {
+    "execution": "191",
+    "lastName": "McFadden",
+    "firstName": "Jerry",
+    "tdcjNumber": "875",
+    "age": "51",
+    "executionDate": "10/14/1999",
+    "race": "White",
+    "county": "Upshur"
+  },
+  {
+    "execution": "190",
+    "lastName": "Crane",
+    "firstName": "Alvin",
+    "tdcjNumber": "888",
+    "age": "41",
+    "executionDate": "10/12/1999",
+    "race": "White",
+    "county": "Denton"
+  },
+  {
+    "execution": "189",
+    "lastName": "Smith",
+    "firstName": "Richard",
+    "tdcjNumber": "999116",
+    "age": "43",
+    "executionDate": "09/21/1999",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "188",
+    "lastName": "Davis",
+    "firstName": "William",
+    "tdcjNumber": "614",
+    "age": "42",
+    "executionDate": "09/14/1999",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "187",
+    "lastName": "Barnes",
+    "firstName": "Willis",
+    "tdcjNumber": "935",
+    "age": "51",
+    "executionDate": "09/10/1999",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "186",
+    "lastName": "Jones",
+    "firstName": "Raymond",
+    "tdcjNumber": "959",
+    "age": "39",
+    "executionDate": "09/01/1999",
+    "race": "Black",
+    "county": "Jefferson"
+  },
+  {
+    "execution": "185",
+    "lastName": "Trevino, Jr.",
+    "firstName": "Joe",
+    "tdcjNumber": "767",
+    "age": "37",
+    "executionDate": "08/18/1999",
+    "race": "Hispanic",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "184",
+    "lastName": "Earhart",
+    "firstName": "James",
+    "tdcjNumber": "905",
+    "age": "56",
+    "executionDate": "08/11/1999",
+    "race": "White",
+    "county": "Lee"
+  },
+  {
+    "execution": "183",
+    "lastName": "Dunn",
+    "firstName": "Kenneth",
+    "tdcjNumber": "675",
+    "age": "39",
+    "executionDate": "08/10/1999",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "182",
+    "lastName": "Boyd",
+    "firstName": "Charles",
+    "tdcjNumber": "891",
+    "age": "39",
+    "executionDate": "08/05/1999",
+    "race": "Black",
+    "county": "Dallas"
+  },
+  {
+    "execution": "181",
+    "lastName": "Blackmon",
+    "firstName": "Ricky",
+    "tdcjNumber": "893",
+    "age": "41",
+    "executionDate": "08/04/1999",
+    "race": "White",
+    "county": "Shelby"
+  },
+  {
+    "execution": "180",
+    "lastName": "Fuller",
+    "firstName": "Tyrone",
+    "tdcjNumber": "934",
+    "age": "35",
+    "executionDate": "07/07/1999",
+    "race": "Black",
+    "county": "Grayson"
+  },
+  {
+    "execution": "179",
+    "lastName": "Tuttle",
+    "firstName": "Charles",
+    "tdcjNumber": "999183",
+    "age": "35",
+    "executionDate": "07/01/1999",
+    "race": "White",
+    "county": "Smith"
+  },
+  {
+    "execution": "178",
+    "lastName": "Faulder",
+    "firstName": "Joseph",
+    "tdcjNumber": "580",
+    "age": "61",
+    "executionDate": "06/17/1999",
+    "race": "White",
+    "county": "Gregg"
+  },
+  {
+    "execution": "177",
+    "lastName": "Little",
+    "firstName": "William",
+    "tdcjNumber": "788",
+    "age": "38",
+    "executionDate": "06/01/1999",
+    "race": "White",
+    "county": "Liberty"
+  },
+  {
+    "execution": "176",
+    "lastName": "Coleman",
+    "firstName": "Clydell",
+    "tdcjNumber": "968",
+    "age": "62",
+    "executionDate": "05/05/1999",
+    "race": "Black",
+    "county": "McLennan"
+  },
+  {
+    "execution": "175",
+    "lastName": "De La Cruz",
+    "firstName": "Jose",
+    "tdcjNumber": "908",
+    "age": "31",
+    "executionDate": "05/04/1999",
+    "race": "Hispanic",
+    "county": "Nueces"
+  },
+  {
+    "execution": "174",
+    "lastName": "Foust",
+    "firstName": "Aaron",
+    "tdcjNumber": "999268",
+    "age": "26",
+    "executionDate": "04/28/1999",
+    "race": "White",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "173",
+    "lastName": "White",
+    "firstName": "Excell",
+    "tdcjNumber": "511",
+    "age": "61",
+    "executionDate": "03/30/1999",
+    "race": "White",
+    "county": "Collin"
+  },
+  {
+    "execution": "172",
+    "lastName": "Rector",
+    "firstName": "Charles",
+    "tdcjNumber": "721",
+    "age": "44",
+    "executionDate": "03/26/1999",
+    "race": "Black",
+    "county": "Travis"
+  },
+  {
+    "execution": "171",
+    "lastName": "Green",
+    "firstName": "Norman",
+    "tdcjNumber": "805",
+    "age": "38",
+    "executionDate": "02/24/1999",
+    "race": "Black",
+    "county": "Bexar"
+  },
+  {
+    "execution": "170",
+    "lastName": "Cantu",
+    "firstName": "Andrew",
+    "tdcjNumber": "999",
+    "age": "30",
+    "executionDate": "02/16/1999",
+    "race": "Hispanic",
+    "county": "Taylor"
+  },
+  {
+    "execution": "169",
+    "lastName": "Barber",
+    "firstName": "Danny",
+    "tdcjNumber": "673",
+    "age": "43",
+    "executionDate": "02/11/1999",
+    "race": "White",
+    "county": "Dallas"
+  },
+  {
+    "execution": "168",
+    "lastName": "Cordova",
+    "firstName": "George",
+    "tdcjNumber": "706",
+    "age": "39",
+    "executionDate": "02/10/1999",
+    "race": "Hispanic",
+    "county": "Bexar"
+  },
+  {
+    "execution": "167",
+    "lastName": "Vega",
+    "firstName": "Martin",
+    "tdcjNumber": "932",
+    "age": "52",
+    "executionDate": "01/26/1999",
+    "race": "Hispanic",
+    "county": "Caldwell"
+  },
+  {
+    "execution": "166",
+    "lastName": "Farris",
+    "firstName": "Troy",
+    "tdcjNumber": "831",
+    "age": "36",
+    "executionDate": "01/13/1999",
+    "race": "White",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "165",
+    "lastName": "Moody",
+    "firstName": "John",
+    "tdcjNumber": "933",
+    "age": "46",
+    "executionDate": "01/05/1999",
+    "race": "White",
+    "county": "Taylor"
+  },
+  {
+    "execution": "164",
+    "lastName": "Meanes",
+    "firstName": "James",
+    "tdcjNumber": "689",
+    "age": "42",
+    "executionDate": "12/15/1998",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "163",
+    "lastName": "Emery",
+    "firstName": "Jeff",
+    "tdcjNumber": "830",
+    "age": "49",
+    "executionDate": "12/08/1998",
+    "race": "White",
+    "county": "Brazos"
+  },
+  {
+    "execution": "162",
+    "lastName": "Corwin",
+    "firstName": "Daniel",
+    "tdcjNumber": "969",
+    "age": "40",
+    "executionDate": "12/07/1998",
+    "race": "White",
+    "county": "Montgomery"
+  },
+  {
+    "execution": "161",
+    "lastName": "McDuff",
+    "firstName": "Kenneth",
+    "tdcjNumber": "999055",
+    "age": "52",
+    "executionDate": "11/17/1998",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "160",
+    "lastName": "Nobles",
+    "firstName": "Jonathan",
+    "tdcjNumber": "885",
+    "age": "37",
+    "executionDate": "10/07/1998",
+    "race": "White",
+    "county": "Travis"
+  },
+  {
+    "execution": "159",
+    "lastName": "Cruz",
+    "firstName": "Javier",
+    "tdcjNumber": "999061",
+    "age": "41",
+    "executionDate": "10/01/1998",
+    "race": "Hispanic",
+    "county": "Bexar"
+  },
+  {
+    "execution": "158",
+    "lastName": "Castillo",
+    "firstName": "David",
+    "tdcjNumber": "770",
+    "age": "43",
+    "executionDate": "08/23/1998",
+    "race": "Hispanic",
+    "county": "Hidalgo"
+  },
+  {
+    "execution": "157",
+    "lastName": "Teague, Jr.",
+    "firstName": "Delbert",
+    "tdcjNumber": "849",
+    "age": "35",
+    "executionDate": "09/09/1998",
+    "race": "White",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "156",
+    "lastName": "Camacho, Jr.",
+    "firstName": "Genaro",
+    "tdcjNumber": "972",
+    "age": "43",
+    "executionDate": "08/26/1998",
+    "race": "Hispanic",
+    "county": "Dallas"
+  },
+  {
+    "execution": "155",
+    "lastName": "Narvaiz",
+    "firstName": "Leopoldo",
+    "tdcjNumber": "923",
+    "age": "30",
+    "executionDate": "06/26/1998",
+    "race": "Hispanic",
+    "county": "Bexar"
+  },
+  {
+    "execution": "154",
+    "lastName": "Pyles",
+    "firstName": "Johnny",
+    "tdcjNumber": "724",
+    "age": "40",
+    "executionDate": "06/15/1998",
+    "race": "White",
+    "county": "Dallas"
+  },
+  {
+    "execution": "153",
+    "lastName": "Boggess",
+    "firstName": "Clifford",
+    "tdcjNumber": "887",
+    "age": "32",
+    "executionDate": "06/11/1998",
+    "race": "White",
+    "county": "Clay"
+  },
+  {
+    "execution": "152",
+    "lastName": "Muniz",
+    "firstName": "Pedro",
+    "tdcjNumber": "575",
+    "age": "41",
+    "executionDate": "05/19/1998",
+    "race": "Hispanic",
+    "county": "Williamson"
+  },
+  {
+    "execution": "151",
+    "lastName": "Carter",
+    "firstName": "Robert",
+    "tdcjNumber": "708",
+    "age": "34",
+    "executionDate": "05/18/1998",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "150",
+    "lastName": "McFarland",
+    "firstName": "Frank",
+    "tdcjNumber": "963",
+    "age": "34",
+    "executionDate": "04/29/1998",
+    "race": "White",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "149",
+    "lastName": "Gosch",
+    "firstName": "Lesley",
+    "tdcjNumber": "842",
+    "age": "42",
+    "executionDate": "04/24/1998",
+    "race": "White",
+    "county": "Victoria"
+  },
+  {
+    "execution": "148",
+    "lastName": "Cannon",
+    "firstName": "Joseph",
+    "tdcjNumber": "634",
+    "age": "38",
+    "executionDate": "04/22/1998",
+    "race": "White",
+    "county": "Bexar"
+  },
+  {
+    "execution": "147",
+    "lastName": "Hogue",
+    "firstName": "Jerry",
+    "tdcjNumber": "660",
+    "age": "47",
+    "executionDate": "03/11/1998",
+    "race": "White",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "146",
+    "lastName": "Renfro",
+    "firstName": "Steven",
+    "tdcjNumber": "999229",
+    "age": "40",
+    "executionDate": "02/09/1998",
+    "race": "White",
+    "county": "Harrison"
+  },
+  {
+    "execution": "145",
+    "lastName": "Tucker",
+    "firstName": "Karla",
+    "tdcjNumber": "777",
+    "age": "38",
+    "executionDate": "02/03/1998",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "144",
+    "lastName": "Lockhart",
+    "firstName": "Michael",
+    "tdcjNumber": "917",
+    "age": "37",
+    "executionDate": "12/09/1997",
+    "race": "White",
+    "county": "Bexar"
+  },
+  {
+    "execution": "143",
+    "lastName": "Livingston",
+    "firstName": "Charlie",
+    "tdcjNumber": "802",
+    "age": "35",
+    "executionDate": "11/21/1997",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "142",
+    "lastName": "Sharp",
+    "firstName": "Michael",
+    "tdcjNumber": "740",
+    "age": "43",
+    "executionDate": "11/19/1997",
+    "race": "White",
+    "county": "Crockett"
+  },
+  {
+    "execution": "141",
+    "lastName": "Fuller",
+    "firstName": "Aaron",
+    "tdcjNumber": "964",
+    "age": "30",
+    "executionDate": "11/06/1997",
+    "race": "White",
+    "county": "Dawson"
+  },
+  {
+    "execution": "140",
+    "lastName": "Lauti",
+    "firstName": "Aua",
+    "tdcjNumber": "843",
+    "age": "43",
+    "executionDate": "11/04/1997",
+    "race": "Other",
+    "county": "Harris"
+  },
+  {
+    "execution": "139",
+    "lastName": "Ransom",
+    "firstName": "Kenneth",
+    "tdcjNumber": "772",
+    "age": "34",
+    "executionDate": "10/28/1997",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "138",
+    "lastName": "Green",
+    "firstName": "Ricky",
+    "tdcjNumber": "984",
+    "age": "36",
+    "executionDate": "10/08/1997",
+    "race": "White",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "137",
+    "lastName": "Adanandus",
+    "firstName": "Dwight",
+    "tdcjNumber": "940",
+    "age": "41",
+    "executionDate": "10/01/1997",
+    "race": "Black",
+    "county": "Bexar"
+  },
+  {
+    "execution": "136",
+    "lastName": "Cockrum",
+    "firstName": "John",
+    "tdcjNumber": "854",
+    "age": "38",
+    "executionDate": "09/30/1997",
+    "race": "White",
+    "county": "Bowie"
+  },
+  {
+    "execution": "135",
+    "lastName": "Stone",
+    "firstName": "Benjamin",
+    "tdcjNumber": "999187",
+    "age": "45",
+    "executionDate": "09/25/1997",
+    "race": "White",
+    "county": "Nueces"
+  },
+  {
+    "execution": "134",
+    "lastName": "Turner",
+    "firstName": "Jessel",
+    "tdcjNumber": "895",
+    "age": "37",
+    "executionDate": "09/22/1997",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "133",
+    "lastName": "Davis",
+    "firstName": "James",
+    "tdcjNumber": "786",
+    "age": "34",
+    "executionDate": "09/09/1997",
+    "race": "Black",
+    "county": "Travis"
+  },
+  {
+    "execution": "132",
+    "lastName": "West, Jr.",
+    "firstName": "Robert",
+    "tdcjNumber": "731",
+    "age": "35",
+    "executionDate": "07/29/1997",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "131",
+    "lastName": "Montoya",
+    "firstName": "Irineo",
+    "tdcjNumber": "847",
+    "age": "29",
+    "executionDate": "06/18/1997",
+    "race": "Hispanic",
+    "county": "Cameron"
+  },
+  {
+    "execution": "130",
+    "lastName": "Johnson",
+    "firstName": "Eddie",
+    "tdcjNumber": "898",
+    "age": "44",
+    "executionDate": "06/17/1997",
+    "race": "Black",
+    "county": "Aransas"
+  },
+  {
+    "execution": "129",
+    "lastName": "Stoker",
+    "firstName": "David",
+    "tdcjNumber": "892",
+    "age": "38",
+    "executionDate": "06/16/1997",
+    "race": "White",
+    "county": "Hale"
+  },
+  {
+    "execution": "128",
+    "lastName": "Behringer",
+    "firstName": "Earl",
+    "tdcjNumber": "914",
+    "age": "33",
+    "executionDate": "06/11/1997",
+    "race": "White",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "127",
+    "lastName": "Losada",
+    "firstName": "Davis",
+    "tdcjNumber": "798",
+    "age": "32",
+    "executionDate": "06/04/1997",
+    "race": "Hispanic",
+    "county": "Cameron"
+  },
+  {
+    "execution": "126",
+    "lastName": "Johnson, Jr.",
+    "firstName": "Dorsie",
+    "tdcjNumber": "850",
+    "age": "30",
+    "executionDate": "06/04/1997",
+    "race": "Black",
+    "county": "Scurry"
+  },
+  {
+    "execution": "125",
+    "lastName": "Harris",
+    "firstName": "Kenneth",
+    "tdcjNumber": "901",
+    "age": "34",
+    "executionDate": "06/03/1997",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "124",
+    "lastName": "Rogers",
+    "firstName": "Patrick",
+    "tdcjNumber": "816",
+    "age": "33",
+    "executionDate": "06/02/1997",
+    "race": "Black",
+    "county": "Collin"
+  },
+  {
+    "execution": "123",
+    "lastName": "Madden",
+    "firstName": "Robert",
+    "tdcjNumber": "822",
+    "age": "33",
+    "executionDate": "05/28/1997",
+    "race": "White",
+    "county": "Leon"
+  },
+  {
+    "execution": "122",
+    "lastName": "White",
+    "firstName": "Larry",
+    "tdcjNumber": "640",
+    "age": "47",
+    "executionDate": "05/22/1997",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "121",
+    "lastName": "Callins",
+    "firstName": "Bruce",
+    "tdcjNumber": "717",
+    "age": "37",
+    "executionDate": "05/21/1997",
+    "race": "Black",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "120",
+    "lastName": "Lackey",
+    "firstName": "Clarence",
+    "tdcjNumber": "591",
+    "age": "42",
+    "executionDate": "05/20/1997",
+    "race": "White",
+    "county": "Tom Green"
+  },
+  {
+    "execution": "119",
+    "lastName": "Drinkard",
+    "firstName": "Richard",
+    "tdcjNumber": "846",
+    "age": "39",
+    "executionDate": "05/19/1997",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "118",
+    "lastName": "Belyeu",
+    "firstName": "Clifton",
+    "tdcjNumber": "841",
+    "age": "38",
+    "executionDate": "05/16/1997",
+    "race": "White",
+    "county": "McLennan"
+  },
+  {
+    "execution": "117",
+    "lastName": "Westley",
+    "firstName": "Anthony",
+    "tdcjNumber": "797",
+    "age": "36",
+    "executionDate": "05/13/1997",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "116",
+    "lastName": "Washington",
+    "firstName": "Terry",
+    "tdcjNumber": "884",
+    "age": "33",
+    "executionDate": "05/06/1997",
+    "race": "Black",
+    "county": "Walker"
+  },
+  {
+    "execution": "115",
+    "lastName": "Baldree",
+    "firstName": "Ernest",
+    "tdcjNumber": "855",
+    "age": "55",
+    "executionDate": "04/29/1997",
+    "race": "White",
+    "county": "Navarro"
+  },
+  {
+    "execution": "114",
+    "lastName": "Boyle",
+    "firstName": "Benjamin",
+    "tdcjNumber": "853",
+    "age": "53",
+    "executionDate": "04/21/1997",
+    "race": "White",
+    "county": "Potter"
+  },
+  {
+    "execution": "113",
+    "lastName": "Gentry",
+    "firstName": "Kenneth",
+    "tdcjNumber": "760",
+    "age": "36",
+    "executionDate": "04/16/1997",
+    "race": "White",
+    "county": "Denton"
+  },
+  {
+    "execution": "112",
+    "lastName": "Woods",
+    "firstName": "Billy",
+    "tdcjNumber": "552",
+    "age": "50",
+    "executionDate": "04/14/1997",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "111",
+    "lastName": "Spence",
+    "firstName": "David",
+    "tdcjNumber": "773",
+    "age": "40",
+    "executionDate": "04/03/1997",
+    "race": "White",
+    "county": "McLennan"
+  },
+  {
+    "execution": "110",
+    "lastName": "Herman",
+    "firstName": "David",
+    "tdcjNumber": "999003",
+    "age": "39",
+    "executionDate": "04/02/1997",
+    "race": "White",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "109",
+    "lastName": "Barefield",
+    "firstName": "John",
+    "tdcjNumber": "844",
+    "age": "32",
+    "executionDate": "03/12/1997",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "108",
+    "lastName": "Brimage, Jr.",
+    "firstName": "Richard",
+    "tdcjNumber": "899",
+    "age": "42",
+    "executionDate": "02/10/1997",
+    "race": "White",
+    "county": "Kleberg"
+  },
+  {
+    "execution": "107",
+    "lastName": "Gonzales, Jr.",
+    "firstName": "Joe",
+    "tdcjNumber": "999177",
+    "age": "36",
+    "executionDate": "09/18/1996",
+    "race": "Hispanic",
+    "county": "Potter"
+  },
+  {
+    "execution": "106",
+    "lastName": "Granviel",
+    "firstName": "Kenneth",
+    "tdcjNumber": "533",
+    "age": "45",
+    "executionDate": "02/27/1996",
+    "race": "Black",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "105",
+    "lastName": "Jenkins",
+    "firstName": "Leo",
+    "tdcjNumber": "967",
+    "age": "38",
+    "executionDate": "02/09/1996",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "104",
+    "lastName": "Briddle",
+    "firstName": "James",
+    "tdcjNumber": "711",
+    "age": "40",
+    "executionDate": "12/12/1995",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "103",
+    "lastName": "Banda",
+    "firstName": "Esequel",
+    "tdcjNumber": "863",
+    "age": "31",
+    "executionDate": "12/11/1995",
+    "race": "Hispanic",
+    "county": "Hamilton"
+  },
+  {
+    "execution": "102",
+    "lastName": "Vuong",
+    "firstName": "Hai",
+    "tdcjNumber": "904",
+    "age": "40",
+    "executionDate": "12/07/1995",
+    "race": "Other",
+    "county": "Jefferson"
+  },
+  {
+    "execution": "101",
+    "lastName": "Amos",
+    "firstName": "Bernard",
+    "tdcjNumber": "926",
+    "age": "33",
+    "executionDate": "12/06/1995",
+    "race": "Black",
+    "county": "Dallas"
+  },
+  {
+    "execution": "100",
+    "lastName": "Lane",
+    "firstName": "Harold",
+    "tdcjNumber": "745",
+    "age": "50",
+    "executionDate": "10/04/1995",
+    "race": "White",
+    "county": "Dallas"
+  },
+  {
+    "execution": "99",
+    "lastName": "Johnson",
+    "firstName": "Carl",
+    "tdcjNumber": "633",
+    "age": "40",
+    "executionDate": "09/19/1995",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "98",
+    "lastName": "Sattiewhite",
+    "firstName": "Vernon",
+    "tdcjNumber": "857",
+    "age": "40",
+    "executionDate": "08/15/1995",
+    "race": "Black",
+    "county": "Bexar"
+  },
+  {
+    "execution": "97",
+    "lastName": "Hammond",
+    "firstName": "Karl",
+    "tdcjNumber": "865",
+    "age": "31",
+    "executionDate": "06/21/1995",
+    "race": "Black",
+    "county": "Bexar"
+  },
+  {
+    "execution": "96",
+    "lastName": "Fearance",
+    "firstName": "John",
+    "tdcjNumber": "626",
+    "age": "41",
+    "executionDate": "06/20/1995",
+    "race": "Black",
+    "county": "Dallas"
+  },
+  {
+    "execution": "95",
+    "lastName": "Allridge",
+    "firstName": "Ronald",
+    "tdcjNumber": "818",
+    "age": "35",
+    "executionDate": "06/08/1995",
+    "race": "Black",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "94",
+    "lastName": "Mann",
+    "firstName": "Fletcher",
+    "tdcjNumber": "705",
+    "age": "34",
+    "executionDate": "06/01/1995",
+    "race": "White",
+    "county": "Dallas"
+  },
+  {
+    "execution": "93",
+    "lastName": "Mays",
+    "firstName": "Noble",
+    "tdcjNumber": "674",
+    "age": "42",
+    "executionDate": "04/06/1995",
+    "race": "White",
+    "county": "Wilbarger"
+  },
+  {
+    "execution": "92",
+    "lastName": "Hawkins",
+    "firstName": "Samuel",
+    "tdcjNumber": "590",
+    "age": "52",
+    "executionDate": "02/21/1995",
+    "race": "Black",
+    "county": "Lubbock"
+  },
+  {
+    "execution": "91",
+    "lastName": "Gardner",
+    "firstName": "Billy",
+    "tdcjNumber": "751",
+    "age": "52",
+    "executionDate": "02/16/1995",
+    "race": "White",
+    "county": "Dallas"
+  },
+  {
+    "execution": "90",
+    "lastName": "Motley",
+    "firstName": "Jeffery",
+    "tdcjNumber": "789",
+    "age": "29",
+    "executionDate": "02/07/1995",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "89",
+    "lastName": "Williams",
+    "firstName": "Willie",
+    "tdcjNumber": "677",
+    "age": "38",
+    "executionDate": "01/31/1995",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "88",
+    "lastName": "Russell, Jr.",
+    "firstName": "Clifton",
+    "tdcjNumber": "658",
+    "age": "38",
+    "executionDate": "01/31/1995",
+    "race": "White",
+    "county": "Taylor"
+  },
+  {
+    "execution": "87",
+    "lastName": "Marquez",
+    "firstName": "Mario",
+    "tdcjNumber": "776",
+    "age": "36",
+    "executionDate": "01/17/1995",
+    "race": "Hispanic",
+    "county": "Bexar"
+  },
+  {
+    "execution": "86",
+    "lastName": "Jacobs",
+    "firstName": "Jesse",
+    "tdcjNumber": "872",
+    "age": "44",
+    "executionDate": "01/04/1995",
+    "race": "White",
+    "county": "Walker"
+  },
+  {
+    "execution": "85",
+    "lastName": "Kinnamon",
+    "firstName": "Raymond",
+    "tdcjNumber": "808",
+    "age": "53",
+    "executionDate": "12/11/1994",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "84",
+    "lastName": "Clark, Jr.",
+    "firstName": "Herman",
+    "tdcjNumber": "715",
+    "age": "48",
+    "executionDate": "12/06/1994",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "83",
+    "lastName": "Bridge",
+    "firstName": "Warren",
+    "tdcjNumber": "668",
+    "age": "34",
+    "executionDate": "11/22/1994",
+    "race": "White",
+    "county": "Galveston"
+  },
+  {
+    "execution": "82",
+    "lastName": "Williams",
+    "firstName": "Walter",
+    "tdcjNumber": "722",
+    "age": "32",
+    "executionDate": "10/05/1994",
+    "race": "Black",
+    "county": "Bexar"
+  },
+  {
+    "execution": "81",
+    "lastName": "Lott",
+    "firstName": "George",
+    "tdcjNumber": "999058",
+    "age": "47",
+    "executionDate": "09/20/1994",
+    "race": "White",
+    "county": "Potter"
+  },
+  {
+    "execution": "80",
+    "lastName": "Gutierrez",
+    "firstName": "Jessie",
+    "tdcjNumber": "971",
+    "age": "29",
+    "executionDate": "09/16/1994",
+    "race": "Hispanic",
+    "county": "Brazos"
+  },
+  {
+    "execution": "79",
+    "lastName": "Drew",
+    "firstName": "Robert",
+    "tdcjNumber": "755",
+    "age": "35",
+    "executionDate": "08/02/1994",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "78",
+    "lastName": "Crank",
+    "firstName": "Denton",
+    "tdcjNumber": "803",
+    "age": "38",
+    "executionDate": "06/14/1994",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "77",
+    "lastName": "Nethery",
+    "firstName": "Stephen",
+    "tdcjNumber": "698",
+    "age": "33",
+    "executionDate": "05/27/1994",
+    "race": "White",
+    "county": "Dallas"
+  },
+  {
+    "execution": "76",
+    "lastName": "Rougeau",
+    "firstName": "Paul",
+    "tdcjNumber": "603",
+    "age": "46",
+    "executionDate": "05/03/1994",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "75",
+    "lastName": "Anderson",
+    "firstName": "Larry",
+    "tdcjNumber": "733",
+    "age": "41",
+    "executionDate": "04/26/1994",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "74",
+    "lastName": "Beavers",
+    "firstName": "Richard",
+    "tdcjNumber": "916",
+    "age": "39",
+    "executionDate": "04/04/1994",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "73",
+    "lastName": "Webb",
+    "firstName": "Freddie",
+    "tdcjNumber": "848",
+    "age": "33",
+    "executionDate": "03/31/1994",
+    "race": "Black",
+    "county": "Nueces"
+  },
+  {
+    "execution": "72",
+    "lastName": "Barnard",
+    "firstName": "Harold",
+    "tdcjNumber": "683",
+    "age": "51",
+    "executionDate": "02/02/1994",
+    "race": "White",
+    "county": "Galveston"
+  },
+  {
+    "execution": "71",
+    "lastName": "Phillips",
+    "firstName": "Clifford",
+    "tdcjNumber": "723",
+    "age": "59",
+    "executionDate": "12/15/1993",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "70",
+    "lastName": "Cook",
+    "firstName": "Anthony",
+    "tdcjNumber": "918",
+    "age": "34",
+    "executionDate": "11/10/1993",
+    "race": "White",
+    "county": "Milam"
+  },
+  {
+    "execution": "69",
+    "lastName": "Bonham",
+    "firstName": "Antonio",
+    "tdcjNumber": "700",
+    "age": "33",
+    "executionDate": "09/28/1993",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "68",
+    "lastName": "James",
+    "firstName": "Johnny",
+    "tdcjNumber": "839",
+    "age": "39",
+    "executionDate": "09/03/1993",
+    "race": "White",
+    "county": "Chambers"
+  },
+  {
+    "execution": "67",
+    "lastName": "Wilkerson",
+    "firstName": "Richard",
+    "tdcjNumber": "756",
+    "age": "29",
+    "executionDate": "08/31/1993",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "66",
+    "lastName": "Cantu",
+    "firstName": "Ruben",
+    "tdcjNumber": "804",
+    "age": "26",
+    "executionDate": "08/24/1993",
+    "race": "Hispanic",
+    "county": "Bexar"
+  },
+  {
+    "execution": "65",
+    "lastName": "Kelly",
+    "firstName": "Carl",
+    "tdcjNumber": "688",
+    "age": "34",
+    "executionDate": "08/20/1993",
+    "race": "Black",
+    "county": "McLennan"
+  },
+  {
+    "execution": "64",
+    "lastName": "Holland",
+    "firstName": "David",
+    "tdcjNumber": "820",
+    "age": "58",
+    "executionDate": "08/12/1993",
+    "race": "White",
+    "county": "Jefferson"
+  },
+  {
+    "execution": "63",
+    "lastName": "Jernigan",
+    "firstName": "Joseph",
+    "tdcjNumber": "699",
+    "age": "39",
+    "executionDate": "08/05/1993",
+    "race": "White",
+    "county": "Navarro"
+  },
+  {
+    "execution": "62",
+    "lastName": "Harris",
+    "firstName": "Danny",
+    "tdcjNumber": "649",
+    "age": "32",
+    "executionDate": "07/30/1993",
+    "race": "Black",
+    "county": "Brazos"
+  },
+  {
+    "execution": "61",
+    "lastName": "Harris",
+    "firstName": "Curtis",
+    "tdcjNumber": "637",
+    "age": "31",
+    "executionDate": "07/01/1993",
+    "race": "Black",
+    "county": "Brazos"
+  },
+  {
+    "execution": "60",
+    "lastName": "Duff-Smith",
+    "firstName": "Markum",
+    "tdcjNumber": "694",
+    "age": "46",
+    "executionDate": "06/29/1993",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "59",
+    "lastName": "Sawyers",
+    "firstName": "John",
+    "tdcjNumber": "742",
+    "age": "38",
+    "executionDate": "05/18/1993",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "58",
+    "lastName": "Herrera",
+    "firstName": "Leonel",
+    "tdcjNumber": "702",
+    "age": "45",
+    "executionDate": "05/12/1993",
+    "race": "Hispanic",
+    "county": "Cameron"
+  },
+  {
+    "execution": "57",
+    "lastName": "Stewart",
+    "firstName": "Darryl",
+    "tdcjNumber": "664",
+    "age": "38",
+    "executionDate": "05/04/1993",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "56",
+    "lastName": "Montoya",
+    "firstName": "Ramon",
+    "tdcjNumber": "737",
+    "age": "38",
+    "executionDate": "03/25/1993",
+    "race": "Hispanic",
+    "county": "Dallas"
+  },
+  {
+    "execution": "55",
+    "lastName": "Santana",
+    "firstName": "Carlos",
+    "tdcjNumber": "695",
+    "age": "40",
+    "executionDate": "03/23/1993",
+    "race": "Hispanic",
+    "county": "Harris"
+  },
+  {
+    "execution": "54",
+    "lastName": "Lincecum",
+    "firstName": "Kavin",
+    "tdcjNumber": "832",
+    "age": "29",
+    "executionDate": "12/10/1992",
+    "race": "Black",
+    "county": "Brazoria"
+  },
+  {
+    "execution": "53",
+    "lastName": "Griffin",
+    "firstName": "Jeffery",
+    "tdcjNumber": "647",
+    "age": "37",
+    "executionDate": "11/19/1992",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "52",
+    "lastName": "Demouchette",
+    "firstName": "James",
+    "tdcjNumber": "572",
+    "age": "37",
+    "executionDate": "09/22/1992",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "51",
+    "lastName": "Johnson",
+    "firstName": "Curtis",
+    "tdcjNumber": "761",
+    "age": "38",
+    "executionDate": "08/11/1992",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "50",
+    "lastName": "Black, Jr.",
+    "firstName": "Robert",
+    "tdcjNumber": "819",
+    "age": "45",
+    "executionDate": "05/22/1992",
+    "race": "White",
+    "county": "Brazos"
+  },
+  {
+    "execution": "49",
+    "lastName": "Romero, Jr.",
+    "firstName": "Jesus",
+    "tdcjNumber": "801",
+    "age": "27",
+    "executionDate": "05/20/1992",
+    "race": "Hispanic",
+    "county": "Cameron"
+  },
+  {
+    "execution": "48",
+    "lastName": "May",
+    "firstName": "Justin",
+    "tdcjNumber": "783",
+    "age": "46",
+    "executionDate": "05/07/1992",
+    "race": "White",
+    "county": "Brazoria"
+  },
+  {
+    "execution": "47",
+    "lastName": "White",
+    "firstName": "Billy",
+    "tdcjNumber": "585",
+    "age": "34",
+    "executionDate": "04/23/1992",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "46",
+    "lastName": "Ellis",
+    "firstName": "Edward",
+    "tdcjNumber": "749",
+    "age": "38",
+    "executionDate": "03/03/1992",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "45",
+    "lastName": "Clark",
+    "firstName": "David",
+    "tdcjNumber": "874",
+    "age": "32",
+    "executionDate": "02/28/1992",
+    "race": "White",
+    "county": "Brazos"
+  },
+  {
+    "execution": "44",
+    "lastName": "Garrett",
+    "firstName": "Johnny",
+    "tdcjNumber": "729",
+    "age": "28",
+    "executionDate": "02/11/1992",
+    "race": "White",
+    "county": "Potter"
+  },
+  {
+    "execution": "43",
+    "lastName": "Cordova",
+    "firstName": "Joe",
+    "tdcjNumber": "730",
+    "age": "39",
+    "executionDate": "01/22/1992",
+    "race": "Hispanic",
+    "county": "Harris"
+  },
+  {
+    "execution": "42",
+    "lastName": "Green",
+    "firstName": "G.W.",
+    "tdcjNumber": "576",
+    "age": "49",
+    "executionDate": "11/12/1991",
+    "race": "White",
+    "county": "Montgomery"
+  },
+  {
+    "execution": "41",
+    "lastName": "Russell",
+    "firstName": "James",
+    "tdcjNumber": "579",
+    "age": "42",
+    "executionDate": "09/19/1991",
+    "race": "Black",
+    "county": "Fort Bend"
+  },
+  {
+    "execution": "40",
+    "lastName": "Bird",
+    "firstName": "Jerry",
+    "tdcjNumber": "512",
+    "age": "54",
+    "executionDate": "06/17/1991",
+    "race": "White",
+    "county": "Cameron"
+  },
+  {
+    "execution": "39",
+    "lastName": "Cuevas",
+    "firstName": "Ignacio",
+    "tdcjNumber": "526",
+    "age": "59",
+    "executionDate": "05/23/1991",
+    "race": "Hispanic",
+    "county": "Harris"
+  },
+  {
+    "execution": "38",
+    "lastName": "Buxton",
+    "firstName": "Lawrence",
+    "tdcjNumber": "743",
+    "age": "38",
+    "executionDate": "02/26/1991",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "37",
+    "lastName": "Derrick",
+    "firstName": "Mikel",
+    "tdcjNumber": "701",
+    "age": "33",
+    "executionDate": "07/18/1990",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "36",
+    "lastName": "Smith",
+    "firstName": "James",
+    "tdcjNumber": "763",
+    "age": "37",
+    "executionDate": "06/26/1990",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "35",
+    "lastName": "Anderson",
+    "firstName": "Johnny",
+    "tdcjNumber": "732",
+    "age": "30",
+    "executionDate": "05/17/1990",
+    "race": "White",
+    "county": "Jefferson"
+  },
+  {
+    "execution": "34",
+    "lastName": "Butler",
+    "firstName": "Jerome",
+    "tdcjNumber": "852",
+    "age": "54",
+    "executionDate": "04/21/1990",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "33",
+    "lastName": "De Luna",
+    "firstName": "Carlos",
+    "tdcjNumber": "744",
+    "age": "27",
+    "executionDate": "12/07/1989",
+    "race": "Hispanic",
+    "county": "Nueces"
+  },
+  {
+    "execution": "32",
+    "lastName": "Paster",
+    "firstName": "James",
+    "tdcjNumber": "752",
+    "age": "44",
+    "executionDate": "09/20/1989",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "31",
+    "lastName": "McCoy",
+    "firstName": "Stephen",
+    "tdcjNumber": "769",
+    "age": "40",
+    "executionDate": "05/24/1989",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "30",
+    "lastName": "King",
+    "firstName": "Leon",
+    "tdcjNumber": "624",
+    "age": "44",
+    "executionDate": "03/22/1989",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "29",
+    "lastName": "Landry, Sr.",
+    "firstName": "Raymond",
+    "tdcjNumber": "738",
+    "age": "39",
+    "executionDate": "12/13/1988",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "28",
+    "lastName": "Franklin",
+    "firstName": "Donald",
+    "tdcjNumber": "546",
+    "age": "37",
+    "executionDate": "11/03/1988",
+    "race": "Black",
+    "county": "Nueces"
+  },
+  {
+    "execution": "27",
+    "lastName": "Streetman",
+    "firstName": "Robert",
+    "tdcjNumber": "746",
+    "age": "27",
+    "executionDate": "01/07/1988",
+    "race": "White",
+    "county": "Hardin"
+  },
+  {
+    "execution": "26",
+    "lastName": "Starvaggi",
+    "firstName": "Joseph",
+    "tdcjNumber": "586",
+    "age": "34",
+    "executionDate": "09/10/1987",
+    "race": "White",
+    "county": "Montgomery"
+  },
+  {
+    "execution": "25",
+    "lastName": "Thompson",
+    "firstName": "John",
+    "tdcjNumber": "610",
+    "age": "32",
+    "executionDate": "07/08/1987",
+    "race": "White",
+    "county": "Bexar"
+  },
+  {
+    "execution": "24",
+    "lastName": "Johnson",
+    "firstName": "Elliot",
+    "tdcjNumber": "739",
+    "age": "38",
+    "executionDate": "06/24/1987",
+    "race": "Black",
+    "county": "Jefferson"
+  },
+  {
+    "execution": "23",
+    "lastName": "Williams",
+    "firstName": "Anthony",
+    "tdcjNumber": "619",
+    "age": "27",
+    "executionDate": "05/28/1987",
+    "race": "Black",
+    "county": "Harris"
+  },
+  {
+    "execution": "22",
+    "lastName": "Moreno",
+    "firstName": "Eliseo",
+    "tdcjNumber": "759",
+    "age": "27",
+    "executionDate": "03/04/1987",
+    "race": "Hispanic",
+    "county": "Fort Bend"
+  },
+  {
+    "execution": "21",
+    "lastName": "Hernandez",
+    "firstName": "Ramon",
+    "tdcjNumber": "667",
+    "age": "44",
+    "executionDate": "01/30/1987",
+    "race": "Hispanic",
+    "county": "El Paso"
+  },
+  {
+    "execution": "20",
+    "lastName": "Andrade",
+    "firstName": "Richard",
+    "tdcjNumber": "774",
+    "age": "25",
+    "executionDate": "12/18/1986",
+    "race": "Hispanic",
+    "county": "Nueces"
+  },
+  {
+    "execution": "19",
+    "lastName": "Evans",
+    "firstName": "Michael",
+    "tdcjNumber": "608",
+    "age": "30",
+    "executionDate": "12/04/1986",
+    "race": "Black",
+    "county": "Dallas"
+  },
+  {
+    "execution": "18",
+    "lastName": "Wicker",
+    "firstName": "Chester",
+    "tdcjNumber": "678",
+    "age": "37",
+    "executionDate": "08/26/1986",
+    "race": "White",
+    "county": "Galveston"
+  },
+  {
+    "execution": "17",
+    "lastName": "Smith",
+    "firstName": "Larry",
+    "tdcjNumber": "643",
+    "age": "30",
+    "executionDate": "08/22/1986",
+    "race": "Black",
+    "county": "Dallas"
+  },
+  {
+    "execution": "16",
+    "lastName": "Woolls",
+    "firstName": "Randy",
+    "tdcjNumber": "646",
+    "age": "36",
+    "executionDate": "08/20/1986",
+    "race": "White",
+    "county": "Tom Green"
+  },
+  {
+    "execution": "15",
+    "lastName": "Brock",
+    "firstName": "Kenneth",
+    "tdcjNumber": "522",
+    "age": "37",
+    "executionDate": "06/19/1986",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "14",
+    "lastName": "Esquivel",
+    "firstName": "Rudy",
+    "tdcjNumber": "606",
+    "age": "50",
+    "executionDate": "06/09/1986",
+    "race": "Hispanic",
+    "county": "Harris"
+  },
+  {
+    "execution": "13",
+    "lastName": "Pinkerton",
+    "firstName": "Jay",
+    "tdcjNumber": "686",
+    "age": "24",
+    "executionDate": "05/15/1986",
+    "race": "White",
+    "county": "Nueces"
+  },
+  {
+    "execution": "12",
+    "lastName": "Barney",
+    "firstName": "Jeffery",
+    "tdcjNumber": "714",
+    "age": "28",
+    "executionDate": "04/16/1986",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "11",
+    "lastName": "Bass",
+    "firstName": "Charles",
+    "tdcjNumber": "662",
+    "age": "30",
+    "executionDate": "03/12/1986",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "10",
+    "lastName": "Rumbaugh",
+    "firstName": "Charles",
+    "tdcjNumber": "555",
+    "age": "28",
+    "executionDate": "09/11/1985",
+    "race": "White",
+    "county": "Potter"
+  },
+  {
+    "execution": "9",
+    "lastName": "Porter",
+    "firstName": "Henry",
+    "tdcjNumber": "551",
+    "age": "43",
+    "executionDate": "07/09/1985",
+    "race": "Hispanic",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "8",
+    "lastName": "Milton",
+    "firstName": "Charles",
+    "tdcjNumber": "628",
+    "age": "34",
+    "executionDate": "06/25/1985",
+    "race": "Black",
+    "county": "Tarrant"
+  },
+  {
+    "execution": "7",
+    "lastName": "De La Rosa",
+    "firstName": "Jesse",
+    "tdcjNumber": "713",
+    "age": "24",
+    "executionDate": "05/15/1985",
+    "race": "Hispanic",
+    "county": "Bexar"
+  },
+  {
+    "execution": "6",
+    "lastName": "Morin",
+    "firstName": "Stephen",
+    "tdcjNumber": "712",
+    "age": "34",
+    "executionDate": "03/13/1985",
+    "race": "White",
+    "county": "Jefferson"
+  },
+  {
+    "execution": "5",
+    "lastName": "Skillern",
+    "firstName": "Doyle",
+    "tdcjNumber": "518",
+    "age": "49",
+    "executionDate": "01/16/1985",
+    "race": "White",
+    "county": "Lubbock"
+  },
+  {
+    "execution": "4",
+    "lastName": "Barefoot",
+    "firstName": "Thomas",
+    "tdcjNumber": "621",
+    "age": "39",
+    "executionDate": "10/30/1984",
+    "race": "White",
+    "county": "Bell"
+  },
+  {
+    "execution": "3",
+    "lastName": "O'Bryan",
+    "firstName": "Ronald",
+    "tdcjNumber": "529",
+    "age": "39",
+    "executionDate": "03/31/1984",
+    "race": "White",
+    "county": "Harris"
+  },
+  {
+    "execution": "2",
+    "lastName": "Autry",
+    "firstName": "James",
+    "tdcjNumber": "670",
+    "age": "29",
+    "executionDate": "03/14/1984",
+    "race": "White",
+    "county": "Jefferson"
+  },
+  {
+    "execution": "1",
+    "lastName": "Brooks, Jr.",
+    "firstName": "Charlie",
+    "tdcjNumber": "592",
+    "age": "40",
+    "executionDate": "12/07/1982",
+    "race": "Black",
+    "county": "Tarrant"
+  }
+]
